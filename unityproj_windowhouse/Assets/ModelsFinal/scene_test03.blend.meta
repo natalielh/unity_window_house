@@ -1,0 +1,236 @@
+fileFormatVersion: 2
+guid: 162b94601c2f4453ab9c180939198426
+timeCreated: 1521123785
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Curve_009
+    100004: Cylinder
+    100006: Curve_000
+    100008: Curve_001
+    100010: Curve_002
+    100012: Curve_003
+    100014: Curve_004
+    100016: Curve_005
+    100018: Curve_006
+    100020: Curve_007
+    100022: Curve_008
+    100024: Curve_010
+    100026: Curve_011
+    100028: Plane
+    100030: Plane_001
+    100032: Plane_002
+    100034: Plane_003
+    100036: Plane_004
+    100038: Plane_005
+    100040: Plane_006
+    100042: Plane_007
+    100044: Plane_008
+    100046: Plane_009
+    100048: Plane_010
+    100050: Plane_011
+    100052: Plane_012
+    400000: //RootNode
+    400002: Curve_009
+    400004: Cylinder
+    400006: Curve_000
+    400008: Curve_001
+    400010: Curve_002
+    400012: Curve_003
+    400014: Curve_004
+    400016: Curve_005
+    400018: Curve_006
+    400020: Curve_007
+    400022: Curve_008
+    400024: Curve_010
+    400026: Curve_011
+    400028: Plane
+    400030: Plane_001
+    400032: Plane_002
+    400034: Plane_003
+    400036: Plane_004
+    400038: Plane_005
+    400040: Plane_006
+    400042: Plane_007
+    400044: Plane_008
+    400046: Plane_009
+    400048: Plane_010
+    400050: Plane_011
+    400052: Plane_012
+    2100000: unnamed
+    2100002: SVGMat_007
+    2100004: SVGMat_000
+    2100006: SVGMat_001
+    2100008: SVGMat_002
+    2100010: SVGMat_003
+    2100012: SVGMat_004
+    2100014: SVGMat_005
+    2100016: SVGMat_006
+    2100018: SVGMat_008
+    2100020: SVGMat_009
+    2100022: SVGMat_010
+    2100024: SVGMat_011
+    2300000: //RootNode
+    2300002: Curve_009
+    2300004: Cylinder
+    2300006: Curve_000
+    2300008: Curve_001
+    2300010: Curve_002
+    2300012: Curve_003
+    2300014: Curve_004
+    2300016: Curve_005
+    2300018: Curve_006
+    2300020: Curve_007
+    2300022: Curve_008
+    2300024: Curve_010
+    2300026: Curve_011
+    2300028: Plane
+    2300030: Plane_001
+    2300032: Plane_002
+    2300034: Plane_003
+    2300036: Plane_004
+    2300038: Plane_005
+    2300040: Plane_006
+    2300042: Plane_007
+    2300044: Plane_008
+    2300046: Plane_009
+    2300048: Plane_010
+    2300050: Plane_011
+    2300052: Plane_012
+    3300000: //RootNode
+    3300002: Curve_009
+    3300004: Cylinder
+    3300006: Curve_000
+    3300008: Curve_001
+    3300010: Curve_002
+    3300012: Curve_003
+    3300014: Curve_004
+    3300016: Curve_005
+    3300018: Curve_006
+    3300020: Curve_007
+    3300022: Curve_008
+    3300024: Curve_010
+    3300026: Curve_011
+    3300028: Plane
+    3300030: Plane_001
+    3300032: Plane_002
+    3300034: Plane_003
+    3300036: Plane_004
+    3300038: Plane_005
+    3300040: Plane_006
+    3300042: Plane_007
+    3300044: Plane_008
+    3300046: Plane_009
+    3300048: Plane_010
+    3300050: Plane_011
+    3300052: Plane_012
+    4300000: Cylinder
+    4300002: Curve_009
+    4300004: Curve_000
+    4300006: Curve_001
+    4300008: Curve_002
+    4300010: Curve_003
+    4300012: Curve_004
+    4300014: Curve_005
+    4300016: Curve_006
+    4300018: Curve_007
+    4300020: Curve_008
+    4300022: Curve_010
+    4300024: Curve_011
+    4300026: Plane
+    4300028: Plane_001
+    4300030: Plane_002
+    4300032: Plane_003
+    4300034: Plane_004
+    4300036: Plane_005
+    4300038: Plane_006
+    4300040: Plane_007
+    4300042: Plane_008
+    4300044: Plane_009
+    4300046: Plane_010
+    4300048: Plane_011
+    4300050: Plane_012
+    7400000: Default Take
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

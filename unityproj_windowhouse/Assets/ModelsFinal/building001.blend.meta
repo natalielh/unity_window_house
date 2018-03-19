@@ -1,0 +1,241 @@
+fileFormatVersion: 2
+guid: c2ea3fda6f615471795a94fbee14ee0f
+timeCreated: 1521310848
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Curve_000
+    100004: Cylinder
+    100006: Plane_003
+    100008: pillar001
+    100010: window001
+    100012: pillar_000
+    100014: pillar_001
+    100016: pillar_002
+    100018: pillar_003
+    100020: pillar_004
+    100022: pillar_005
+    100024: pillar_006
+    100026: pillar_007
+    100028: pillar_008
+    100030: pillar_009
+    100032: pillar_010
+    100034: pillar_011
+    100036: window_000
+    100038: window_001
+    100040: window_002
+    100042: window_003
+    100044: window_004
+    100046: window_005
+    100048: window_006
+    100050: window_007
+    100052: window_008
+    100054: window_009
+    100056: window_010
+    100058: window_011
+    400000: //RootNode
+    400002: Curve_000
+    400004: Cylinder
+    400006: Plane_003
+    400008: pillar001
+    400010: window001
+    400012: pillar_000
+    400014: pillar_001
+    400016: pillar_002
+    400018: pillar_003
+    400020: pillar_004
+    400022: pillar_005
+    400024: pillar_006
+    400026: pillar_007
+    400028: pillar_008
+    400030: pillar_009
+    400032: pillar_010
+    400034: pillar_011
+    400036: window_000
+    400038: window_001
+    400040: window_002
+    400042: window_003
+    400044: window_004
+    400046: window_005
+    400048: window_006
+    400050: window_007
+    400052: window_008
+    400054: window_009
+    400056: window_010
+    400058: window_011
+    2100000: unnamed
+    2100002: SVGMat_000
+    2300000: Curve_000
+    2300002: Cylinder
+    2300004: Plane_003
+    2300006: //RootNode
+    2300008: pillar001
+    2300010: window001
+    2300012: pillar_000
+    2300014: pillar_001
+    2300016: pillar_002
+    2300018: pillar_003
+    2300020: pillar_004
+    2300022: pillar_005
+    2300024: pillar_006
+    2300026: pillar_007
+    2300028: pillar_008
+    2300030: pillar_009
+    2300032: pillar_010
+    2300034: pillar_011
+    2300036: window_000
+    2300038: window_001
+    2300040: window_002
+    2300042: window_003
+    2300044: window_004
+    2300046: window_005
+    2300048: window_006
+    2300050: window_007
+    2300052: window_008
+    2300054: window_009
+    2300056: window_010
+    2300058: window_011
+    3300000: Curve_000
+    3300002: Cylinder
+    3300004: Plane_003
+    3300006: //RootNode
+    3300008: pillar001
+    3300010: window001
+    3300012: pillar_000
+    3300014: pillar_001
+    3300016: pillar_002
+    3300018: pillar_003
+    3300020: pillar_004
+    3300022: pillar_005
+    3300024: pillar_006
+    3300026: pillar_007
+    3300028: pillar_008
+    3300030: pillar_009
+    3300032: pillar_010
+    3300034: pillar_011
+    3300036: window_000
+    3300038: window_001
+    3300040: window_002
+    3300042: window_003
+    3300044: window_004
+    3300046: window_005
+    3300048: window_006
+    3300050: window_007
+    3300052: window_008
+    3300054: window_009
+    3300056: window_010
+    3300058: window_011
+    4300000: Cylinder
+    4300002: Curve_000
+    4300004: Plane_003
+    4300006: building_base
+    4300008: pillar001
+    4300010: window001
+    4300012: window_011
+    4300014: window_010
+    4300016: window_009
+    4300018: window_008
+    4300020: window_007
+    4300022: window_006
+    4300024: window_005
+    4300026: window_004
+    4300028: window_003
+    4300030: window_002
+    4300032: window_001
+    4300034: pillar_011
+    4300036: pillar_010
+    4300038: pillar_009
+    4300040: pillar_008
+    4300042: pillar_007
+    4300044: pillar_006
+    4300046: pillar_005
+    4300048: pillar_004
+    4300050: pillar_003
+    4300052: pillar_000
+    4300054: pillar_002
+    4300056: pillar_001
+    4300058: window_000
+    7400000: Default Take
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 10
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
