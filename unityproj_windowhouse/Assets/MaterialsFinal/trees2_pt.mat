@@ -7,7 +7,7 @@ Material:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_Name: trees2_pt
-  m_Shader: {fileID: 4800000, guid: 767cc270d2ce94d91a05bbb3d61cab3d, type: 3}
+  m_Shader: {fileID: 4800000, guid: 5c2909aa72c6c41cdbb60f5c6c511e44, type: 3}
   m_ShaderKeywords: _ALPHABLEND_ON _EMISSION
   m_LightmapFlags: 2
   m_EnableInstancingVariants: 0
