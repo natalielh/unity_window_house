@@ -19,7 +19,7 @@ public class TextureOffsetter : MonoBehaviour {
 	private int num_mats;
 
 	//inspector-settable array to set the speeds for the scrolling textures
-	[Range(-1.0f,1.0f)]
+	[Range(-0.5f,0.5f)]
 	public float[] scroll_speeds;
 
 	//stored original position on the x-z plane of this gameobject
