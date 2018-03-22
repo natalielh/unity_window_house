@@ -1,0 +1,144 @@
+fileFormatVersion: 2
+guid: ffb09a7e678eb431191276bb7575b53a
+timeCreated: 1521733056
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: fountainbot
+    100002: fountainbowlbot
+    100004: fountainbowltop
+    100006: //RootNode
+    100008: fountainpillarbota
+    100010: fountainpillarbotb
+    100012: fountainpillarmid
+    100014: fountainpillartop
+    100016: waterbot
+    100018: watermid
+    100020: watertop
+    400000: fountainbot
+    400002: fountainbowlbot
+    400004: fountainbowltop
+    400006: //RootNode
+    400008: fountainpillarbota
+    400010: fountainpillarbotb
+    400012: fountainpillarmid
+    400014: fountainpillartop
+    400016: waterbot
+    400018: watermid
+    400020: watertop
+    2100000: unnamed
+    2100002: pSphere1SG_001
+    2100004: pSphere1SG
+    2300000: fountainbot
+    2300002: fountainbowlbot
+    2300004: fountainbowltop
+    2300006: fountainpillarbota
+    2300008: fountainpillarbotb
+    2300010: fountainpillarmid
+    2300012: fountainpillartop
+    2300014: waterbot
+    2300016: watermid
+    2300018: watertop
+    3300000: fountainbot
+    3300002: fountainbowlbot
+    3300004: fountainbowltop
+    3300006: fountainpillarbota
+    3300008: fountainpillarbotb
+    3300010: fountainpillarmid
+    3300012: fountainpillartop
+    3300014: waterbot
+    3300016: watermid
+    3300018: watertop
+    4300000: watertop
+    4300002: waterbot
+    4300004: fountainbowltop
+    4300006: fountainpillarbota
+    4300008: fountainpillarmid
+    4300010: fountainbowlbot
+    4300012: fountainpillarbotb
+    4300014: fountainpillartop
+    4300016: fountainbot
+    4300018: watermid
+    7400000: Default Take
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.4
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
