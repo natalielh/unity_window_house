@@ -6,5 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/bakedtest002.unity
+    path: Assets/Scenes/bakedtest002.unity
     guid: c1cdcf72635d04d61b0015199e0a517e
+  - enabled: 1
+    path: Assets/Scenes/scene2.unity
+    guid: d2b76cbeb22d74505a6a163c273d7694
