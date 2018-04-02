@@ -5,11 +5,8 @@ using UnityEngine;
 public class TextureRandOffsetter : MonoBehaviour {
 
 	/*
-		This script is used for offsetting 
+		This script is used for offsetting attached textures at randomized amounts every frame
 	*/
-
-	//stores the original offset of the texture
-	private Vector2 scroll_origoffset;
 
 	//inspector-settable values that acts as multipliers
 	[Range(-3.0f,3.0f)]
@@ -25,9 +22,6 @@ public class TextureRandOffsetter : MonoBehaviour {
 
 		Renderer renderer = GetComponent<Renderer>();
 		mat = renderer.material;
-
-		//get the original texture offset set in the Unity editor
-		scroll_origoffset = mat.GetTextureOffset("_MainTex");
 	}
 	
 	// Update is called once per frame
