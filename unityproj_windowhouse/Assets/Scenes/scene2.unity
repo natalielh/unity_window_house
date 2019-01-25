@@ -153,60 +153,9 @@ Prefab:
       propertyPath: m_RootOrder
       value: 7
       objectReference: {fileID: 0}
-    - target: {fileID: 108392602560536828, guid: 9a548444382174af5a5186707fe1658d,
-        type: 2}
-      propertyPath: m_Range
-      value: 7
-      objectReference: {fileID: 0}
-    - target: {fileID: 108392602560536828, guid: 9a548444382174af5a5186707fe1658d,
-        type: 2}
-      propertyPath: m_Shadows.m_Type
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 108392602560536828, guid: 9a548444382174af5a5186707fe1658d,
-        type: 2}
-      propertyPath: m_Color.g
-      value: 0.47586223
-      objectReference: {fileID: 0}
-    - target: {fileID: 4732768240000078, guid: 9a548444382174af5a5186707fe1658d, type: 2}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 270
-      objectReference: {fileID: 0}
     - target: {fileID: 1704243396572948, guid: 9a548444382174af5a5186707fe1658d, type: 2}
       propertyPath: m_Name
       value: torch002 (7)
-      objectReference: {fileID: 0}
-    - target: {fileID: 4732768240000078, guid: 9a548444382174af5a5186707fe1658d, type: 2}
-      propertyPath: m_LocalScale.y
-      value: 1.0000005
-      objectReference: {fileID: 0}
-    - target: {fileID: 4732768240000078, guid: 9a548444382174af5a5186707fe1658d, type: 2}
-      propertyPath: m_LocalScale.z
-      value: 1.0000005
-      objectReference: {fileID: 0}
-    - target: {fileID: 4732768240000078, guid: 9a548444382174af5a5186707fe1658d, type: 2}
-      propertyPath: m_LocalScale.x
-      value: 1.0000005
-      objectReference: {fileID: 0}
-    - target: {fileID: 108392602560536828, guid: 9a548444382174af5a5186707fe1658d,
-        type: 2}
-      propertyPath: m_Intensity
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 108392602560536828, guid: 9a548444382174af5a5186707fe1658d,
-        type: 2}
-      propertyPath: m_Color.r
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 108392602560536828, guid: 9a548444382174af5a5186707fe1658d,
-        type: 2}
-      propertyPath: m_Color.b
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 108392602560536828, guid: 9a548444382174af5a5186707fe1658d,
-        type: 2}
-      propertyPath: m_Lightmapping
-      value: 2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9a548444382174af5a5186707fe1658d, type: 2}
@@ -476,45 +425,9 @@ Prefab:
       propertyPath: m_RootOrder
       value: 2
       objectReference: {fileID: 0}
-    - target: {fileID: 4732768240000078, guid: 9a548444382174af5a5186707fe1658d, type: 2}
-      propertyPath: m_LocalScale.x
-      value: 1.0000005
-      objectReference: {fileID: 0}
-    - target: {fileID: 4732768240000078, guid: 9a548444382174af5a5186707fe1658d, type: 2}
-      propertyPath: m_LocalScale.y
-      value: 1.0000005
-      objectReference: {fileID: 0}
-    - target: {fileID: 4732768240000078, guid: 9a548444382174af5a5186707fe1658d, type: 2}
-      propertyPath: m_LocalScale.z
-      value: 1.0000005
-      objectReference: {fileID: 0}
     - target: {fileID: 1704243396572948, guid: 9a548444382174af5a5186707fe1658d, type: 2}
       propertyPath: m_Name
       value: torch001 (2)
-      objectReference: {fileID: 0}
-    - target: {fileID: 1704243396572948, guid: 9a548444382174af5a5186707fe1658d, type: 2}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 108392602560536828, guid: 9a548444382174af5a5186707fe1658d,
-        type: 2}
-      propertyPath: m_Range
-      value: 5
-      objectReference: {fileID: 0}
-    - target: {fileID: 108392602560536828, guid: 9a548444382174af5a5186707fe1658d,
-        type: 2}
-      propertyPath: m_Shadows.m_Type
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 108392602560536828, guid: 9a548444382174af5a5186707fe1658d,
-        type: 2}
-      propertyPath: m_Color.g
-      value: 0.7241379
-      objectReference: {fileID: 0}
-    - target: {fileID: 108392602560536828, guid: 9a548444382174af5a5186707fe1658d,
-        type: 2}
-      propertyPath: m_Intensity
-      value: 1.5
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9a548444382174af5a5186707fe1658d, type: 2}
@@ -563,56 +476,9 @@ Prefab:
       propertyPath: m_RootOrder
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 108392602560536828, guid: 9a548444382174af5a5186707fe1658d,
-        type: 2}
-      propertyPath: m_Range
-      value: 7
-      objectReference: {fileID: 0}
-    - target: {fileID: 108392602560536828, guid: 9a548444382174af5a5186707fe1658d,
-        type: 2}
-      propertyPath: m_Shadows.m_Type
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 108392602560536828, guid: 9a548444382174af5a5186707fe1658d,
-        type: 2}
-      propertyPath: m_Color.g
-      value: 0.47586223
-      objectReference: {fileID: 0}
-    - target: {fileID: 4732768240000078, guid: 9a548444382174af5a5186707fe1658d, type: 2}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 1704243396572948, guid: 9a548444382174af5a5186707fe1658d, type: 2}
       propertyPath: m_Name
       value: torch002
-      objectReference: {fileID: 0}
-    - target: {fileID: 4732768240000078, guid: 9a548444382174af5a5186707fe1658d, type: 2}
-      propertyPath: m_LocalScale.y
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4732768240000078, guid: 9a548444382174af5a5186707fe1658d, type: 2}
-      propertyPath: m_LocalScale.z
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 108392602560536828, guid: 9a548444382174af5a5186707fe1658d,
-        type: 2}
-      propertyPath: m_Intensity
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 108392602560536828, guid: 9a548444382174af5a5186707fe1658d,
-        type: 2}
-      propertyPath: m_Color.r
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 108392602560536828, guid: 9a548444382174af5a5186707fe1658d,
-        type: 2}
-      propertyPath: m_Color.b
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 108392602560536828, guid: 9a548444382174af5a5186707fe1658d,
-        type: 2}
-      propertyPath: m_Lightmapping
-      value: 2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9a548444382174af5a5186707fe1658d, type: 2}
@@ -827,7 +693,7 @@ Light:
   m_Enabled: 1
   serializedVersion: 8
   m_Type: 1
-  m_Color: {r: 0.80121696, g: 0.7058823, b: 1, a: 1}
+  m_Color: {r: 0.9186602, g: 0.5235849, b: 1, a: 1}
   m_Intensity: 0.3
   m_Range: 10
   m_SpotAngle: 30
@@ -1049,49 +915,9 @@ Prefab:
       propertyPath: m_RootOrder
       value: 6
       objectReference: {fileID: 0}
-    - target: {fileID: 4732768240000078, guid: 9a548444382174af5a5186707fe1658d, type: 2}
-      propertyPath: m_LocalScale.x
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4732768240000078, guid: 9a548444382174af5a5186707fe1658d, type: 2}
-      propertyPath: m_LocalScale.y
-      value: 1.0000005
-      objectReference: {fileID: 0}
-    - target: {fileID: 4732768240000078, guid: 9a548444382174af5a5186707fe1658d, type: 2}
-      propertyPath: m_LocalScale.z
-      value: 1.0000005
-      objectReference: {fileID: 0}
     - target: {fileID: 1704243396572948, guid: 9a548444382174af5a5186707fe1658d, type: 2}
       propertyPath: m_Name
       value: torch001 (6)
-      objectReference: {fileID: 0}
-    - target: {fileID: 1704243396572948, guid: 9a548444382174af5a5186707fe1658d, type: 2}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4732768240000078, guid: 9a548444382174af5a5186707fe1658d, type: 2}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 108392602560536828, guid: 9a548444382174af5a5186707fe1658d,
-        type: 2}
-      propertyPath: m_Range
-      value: 5
-      objectReference: {fileID: 0}
-    - target: {fileID: 108392602560536828, guid: 9a548444382174af5a5186707fe1658d,
-        type: 2}
-      propertyPath: m_Shadows.m_Type
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 108392602560536828, guid: 9a548444382174af5a5186707fe1658d,
-        type: 2}
-      propertyPath: m_Color.g
-      value: 0.7241379
-      objectReference: {fileID: 0}
-    - target: {fileID: 108392602560536828, guid: 9a548444382174af5a5186707fe1658d,
-        type: 2}
-      propertyPath: m_Intensity
-      value: 1.5
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9a548444382174af5a5186707fe1658d, type: 2}
@@ -1140,49 +966,9 @@ Prefab:
       propertyPath: m_RootOrder
       value: 11
       objectReference: {fileID: 0}
-    - target: {fileID: 4732768240000078, guid: 9a548444382174af5a5186707fe1658d, type: 2}
-      propertyPath: m_LocalScale.x
-      value: 1.0000005
-      objectReference: {fileID: 0}
-    - target: {fileID: 4732768240000078, guid: 9a548444382174af5a5186707fe1658d, type: 2}
-      propertyPath: m_LocalScale.y
-      value: 1.0000005
-      objectReference: {fileID: 0}
-    - target: {fileID: 4732768240000078, guid: 9a548444382174af5a5186707fe1658d, type: 2}
-      propertyPath: m_LocalScale.z
-      value: 1.0000005
-      objectReference: {fileID: 0}
     - target: {fileID: 1704243396572948, guid: 9a548444382174af5a5186707fe1658d, type: 2}
       propertyPath: m_Name
       value: torch001 (11)
-      objectReference: {fileID: 0}
-    - target: {fileID: 1704243396572948, guid: 9a548444382174af5a5186707fe1658d, type: 2}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4732768240000078, guid: 9a548444382174af5a5186707fe1658d, type: 2}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 180
-      objectReference: {fileID: 0}
-    - target: {fileID: 108392602560536828, guid: 9a548444382174af5a5186707fe1658d,
-        type: 2}
-      propertyPath: m_Range
-      value: 5
-      objectReference: {fileID: 0}
-    - target: {fileID: 108392602560536828, guid: 9a548444382174af5a5186707fe1658d,
-        type: 2}
-      propertyPath: m_Shadows.m_Type
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 108392602560536828, guid: 9a548444382174af5a5186707fe1658d,
-        type: 2}
-      propertyPath: m_Color.g
-      value: 0.7241379
-      objectReference: {fileID: 0}
-    - target: {fileID: 108392602560536828, guid: 9a548444382174af5a5186707fe1658d,
-        type: 2}
-      propertyPath: m_Intensity
-      value: 1.5
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9a548444382174af5a5186707fe1658d, type: 2}
@@ -1231,44 +1017,9 @@ Prefab:
       propertyPath: m_RootOrder
       value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: 4732768240000078, guid: 9a548444382174af5a5186707fe1658d, type: 2}
-      propertyPath: m_LocalScale.x
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4732768240000078, guid: 9a548444382174af5a5186707fe1658d, type: 2}
-      propertyPath: m_LocalScale.y
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4732768240000078, guid: 9a548444382174af5a5186707fe1658d, type: 2}
-      propertyPath: m_LocalScale.z
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 1704243396572948, guid: 9a548444382174af5a5186707fe1658d, type: 2}
       propertyPath: m_Name
       value: torch001 (12)
-      objectReference: {fileID: 0}
-    - target: {fileID: 1704243396572948, guid: 9a548444382174af5a5186707fe1658d, type: 2}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4732768240000078, guid: 9a548444382174af5a5186707fe1658d, type: 2}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 90
-      objectReference: {fileID: 0}
-    - target: {fileID: 108392602560536828, guid: 9a548444382174af5a5186707fe1658d,
-        type: 2}
-      propertyPath: m_Range
-      value: 6
-      objectReference: {fileID: 0}
-    - target: {fileID: 108392602560536828, guid: 9a548444382174af5a5186707fe1658d,
-        type: 2}
-      propertyPath: m_Shadows.m_Type
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 108392602560536828, guid: 9a548444382174af5a5186707fe1658d,
-        type: 2}
-      propertyPath: m_Color.g
-      value: 0.14482757
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9a548444382174af5a5186707fe1658d, type: 2}
@@ -1576,49 +1327,9 @@ Prefab:
       propertyPath: m_RootOrder
       value: 9
       objectReference: {fileID: 0}
-    - target: {fileID: 4732768240000078, guid: 9a548444382174af5a5186707fe1658d, type: 2}
-      propertyPath: m_LocalScale.x
-      value: 1.0000005
-      objectReference: {fileID: 0}
-    - target: {fileID: 4732768240000078, guid: 9a548444382174af5a5186707fe1658d, type: 2}
-      propertyPath: m_LocalScale.y
-      value: 1.0000005
-      objectReference: {fileID: 0}
-    - target: {fileID: 4732768240000078, guid: 9a548444382174af5a5186707fe1658d, type: 2}
-      propertyPath: m_LocalScale.z
-      value: 1.0000005
-      objectReference: {fileID: 0}
     - target: {fileID: 1704243396572948, guid: 9a548444382174af5a5186707fe1658d, type: 2}
       propertyPath: m_Name
       value: torch001 (9)
-      objectReference: {fileID: 0}
-    - target: {fileID: 1704243396572948, guid: 9a548444382174af5a5186707fe1658d, type: 2}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4732768240000078, guid: 9a548444382174af5a5186707fe1658d, type: 2}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: -270
-      objectReference: {fileID: 0}
-    - target: {fileID: 108392602560536828, guid: 9a548444382174af5a5186707fe1658d,
-        type: 2}
-      propertyPath: m_Range
-      value: 5
-      objectReference: {fileID: 0}
-    - target: {fileID: 108392602560536828, guid: 9a548444382174af5a5186707fe1658d,
-        type: 2}
-      propertyPath: m_Shadows.m_Type
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 108392602560536828, guid: 9a548444382174af5a5186707fe1658d,
-        type: 2}
-      propertyPath: m_Color.g
-      value: 0.7241379
-      objectReference: {fileID: 0}
-    - target: {fileID: 108392602560536828, guid: 9a548444382174af5a5186707fe1658d,
-        type: 2}
-      propertyPath: m_Intensity
-      value: 1.5
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9a548444382174af5a5186707fe1658d, type: 2}
@@ -1783,54 +1494,9 @@ Prefab:
       propertyPath: m_RootOrder
       value: 2
       objectReference: {fileID: 0}
-    - target: {fileID: 4732768240000078, guid: 9a548444382174af5a5186707fe1658d, type: 2}
-      propertyPath: m_LocalScale.x
-      value: 1.0000005
-      objectReference: {fileID: 0}
-    - target: {fileID: 4732768240000078, guid: 9a548444382174af5a5186707fe1658d, type: 2}
-      propertyPath: m_LocalScale.y
-      value: 1.0000005
-      objectReference: {fileID: 0}
-    - target: {fileID: 4732768240000078, guid: 9a548444382174af5a5186707fe1658d, type: 2}
-      propertyPath: m_LocalScale.z
-      value: 1.0000005
-      objectReference: {fileID: 0}
     - target: {fileID: 1704243396572948, guid: 9a548444382174af5a5186707fe1658d, type: 2}
       propertyPath: m_Name
       value: torch001 (13)
-      objectReference: {fileID: 0}
-    - target: {fileID: 1704243396572948, guid: 9a548444382174af5a5186707fe1658d, type: 2}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4732768240000078, guid: 9a548444382174af5a5186707fe1658d, type: 2}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 270
-      objectReference: {fileID: 0}
-    - target: {fileID: 108392602560536828, guid: 9a548444382174af5a5186707fe1658d,
-        type: 2}
-      propertyPath: m_Range
-      value: 7
-      objectReference: {fileID: 0}
-    - target: {fileID: 108392602560536828, guid: 9a548444382174af5a5186707fe1658d,
-        type: 2}
-      propertyPath: m_Shadows.m_Type
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 108392602560536828, guid: 9a548444382174af5a5186707fe1658d,
-        type: 2}
-      propertyPath: m_Color.g
-      value: 0.47586223
-      objectReference: {fileID: 0}
-    - target: {fileID: 108392602560536828, guid: 9a548444382174af5a5186707fe1658d,
-        type: 2}
-      propertyPath: m_Intensity
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 108392602560536828, guid: 9a548444382174af5a5186707fe1658d,
-        type: 2}
-      propertyPath: m_Lightmapping
-      value: 2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9a548444382174af5a5186707fe1658d, type: 2}
@@ -2228,60 +1894,9 @@ Prefab:
       propertyPath: m_RootOrder
       value: 4
       objectReference: {fileID: 0}
-    - target: {fileID: 108392602560536828, guid: 9a548444382174af5a5186707fe1658d,
-        type: 2}
-      propertyPath: m_Range
-      value: 7
-      objectReference: {fileID: 0}
-    - target: {fileID: 108392602560536828, guid: 9a548444382174af5a5186707fe1658d,
-        type: 2}
-      propertyPath: m_Shadows.m_Type
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 108392602560536828, guid: 9a548444382174af5a5186707fe1658d,
-        type: 2}
-      propertyPath: m_Color.g
-      value: 0.47586223
-      objectReference: {fileID: 0}
-    - target: {fileID: 4732768240000078, guid: 9a548444382174af5a5186707fe1658d, type: 2}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: -180
-      objectReference: {fileID: 0}
     - target: {fileID: 1704243396572948, guid: 9a548444382174af5a5186707fe1658d, type: 2}
       propertyPath: m_Name
       value: torch002 (4)
-      objectReference: {fileID: 0}
-    - target: {fileID: 4732768240000078, guid: 9a548444382174af5a5186707fe1658d, type: 2}
-      propertyPath: m_LocalScale.y
-      value: 1.0000005
-      objectReference: {fileID: 0}
-    - target: {fileID: 4732768240000078, guid: 9a548444382174af5a5186707fe1658d, type: 2}
-      propertyPath: m_LocalScale.z
-      value: 1.0000005
-      objectReference: {fileID: 0}
-    - target: {fileID: 4732768240000078, guid: 9a548444382174af5a5186707fe1658d, type: 2}
-      propertyPath: m_LocalScale.x
-      value: 1.0000005
-      objectReference: {fileID: 0}
-    - target: {fileID: 108392602560536828, guid: 9a548444382174af5a5186707fe1658d,
-        type: 2}
-      propertyPath: m_Intensity
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 108392602560536828, guid: 9a548444382174af5a5186707fe1658d,
-        type: 2}
-      propertyPath: m_Color.r
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 108392602560536828, guid: 9a548444382174af5a5186707fe1658d,
-        type: 2}
-      propertyPath: m_Color.b
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 108392602560536828, guid: 9a548444382174af5a5186707fe1658d,
-        type: 2}
-      propertyPath: m_Lightmapping
-      value: 2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9a548444382174af5a5186707fe1658d, type: 2}
@@ -2458,7 +2073,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &523331532
 Transform:
@@ -2528,44 +2143,9 @@ Prefab:
       propertyPath: m_RootOrder
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 4732768240000078, guid: 9a548444382174af5a5186707fe1658d, type: 2}
-      propertyPath: m_LocalScale.x
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4732768240000078, guid: 9a548444382174af5a5186707fe1658d, type: 2}
-      propertyPath: m_LocalScale.y
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4732768240000078, guid: 9a548444382174af5a5186707fe1658d, type: 2}
-      propertyPath: m_LocalScale.z
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 1704243396572948, guid: 9a548444382174af5a5186707fe1658d, type: 2}
       propertyPath: m_Name
       value: torch001 (11)
-      objectReference: {fileID: 0}
-    - target: {fileID: 1704243396572948, guid: 9a548444382174af5a5186707fe1658d, type: 2}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4732768240000078, guid: 9a548444382174af5a5186707fe1658d, type: 2}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 90
-      objectReference: {fileID: 0}
-    - target: {fileID: 108392602560536828, guid: 9a548444382174af5a5186707fe1658d,
-        type: 2}
-      propertyPath: m_Range
-      value: 6
-      objectReference: {fileID: 0}
-    - target: {fileID: 108392602560536828, guid: 9a548444382174af5a5186707fe1658d,
-        type: 2}
-      propertyPath: m_Shadows.m_Type
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 108392602560536828, guid: 9a548444382174af5a5186707fe1658d,
-        type: 2}
-      propertyPath: m_Color.g
-      value: 0.7241379
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9a548444382174af5a5186707fe1658d, type: 2}
@@ -3201,56 +2781,9 @@ Prefab:
       propertyPath: m_RootOrder
       value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: 108392602560536828, guid: 9a548444382174af5a5186707fe1658d,
-        type: 2}
-      propertyPath: m_Range
-      value: 7
-      objectReference: {fileID: 0}
-    - target: {fileID: 108392602560536828, guid: 9a548444382174af5a5186707fe1658d,
-        type: 2}
-      propertyPath: m_Shadows.m_Type
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 108392602560536828, guid: 9a548444382174af5a5186707fe1658d,
-        type: 2}
-      propertyPath: m_Color.g
-      value: 0.47586223
-      objectReference: {fileID: 0}
-    - target: {fileID: 4732768240000078, guid: 9a548444382174af5a5186707fe1658d, type: 2}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 1704243396572948, guid: 9a548444382174af5a5186707fe1658d, type: 2}
       propertyPath: m_Name
       value: torch002 (1)
-      objectReference: {fileID: 0}
-    - target: {fileID: 4732768240000078, guid: 9a548444382174af5a5186707fe1658d, type: 2}
-      propertyPath: m_LocalScale.y
-      value: 1.0000005
-      objectReference: {fileID: 0}
-    - target: {fileID: 4732768240000078, guid: 9a548444382174af5a5186707fe1658d, type: 2}
-      propertyPath: m_LocalScale.z
-      value: 1.0000005
-      objectReference: {fileID: 0}
-    - target: {fileID: 108392602560536828, guid: 9a548444382174af5a5186707fe1658d,
-        type: 2}
-      propertyPath: m_Intensity
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 108392602560536828, guid: 9a548444382174af5a5186707fe1658d,
-        type: 2}
-      propertyPath: m_Color.r
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 108392602560536828, guid: 9a548444382174af5a5186707fe1658d,
-        type: 2}
-      propertyPath: m_Color.b
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 108392602560536828, guid: 9a548444382174af5a5186707fe1658d,
-        type: 2}
-      propertyPath: m_Lightmapping
-      value: 2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9a548444382174af5a5186707fe1658d, type: 2}
@@ -3365,49 +2898,9 @@ Prefab:
       propertyPath: m_RootOrder
       value: 15
       objectReference: {fileID: 0}
-    - target: {fileID: 4732768240000078, guid: 9a548444382174af5a5186707fe1658d, type: 2}
-      propertyPath: m_LocalScale.x
-      value: 1.000001
-      objectReference: {fileID: 0}
-    - target: {fileID: 4732768240000078, guid: 9a548444382174af5a5186707fe1658d, type: 2}
-      propertyPath: m_LocalScale.y
-      value: 1.0000005
-      objectReference: {fileID: 0}
-    - target: {fileID: 4732768240000078, guid: 9a548444382174af5a5186707fe1658d, type: 2}
-      propertyPath: m_LocalScale.z
-      value: 1.0000002
-      objectReference: {fileID: 0}
     - target: {fileID: 1704243396572948, guid: 9a548444382174af5a5186707fe1658d, type: 2}
       propertyPath: m_Name
       value: torch001 (15)
-      objectReference: {fileID: 0}
-    - target: {fileID: 1704243396572948, guid: 9a548444382174af5a5186707fe1658d, type: 2}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4732768240000078, guid: 9a548444382174af5a5186707fe1658d, type: 2}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 180
-      objectReference: {fileID: 0}
-    - target: {fileID: 108392602560536828, guid: 9a548444382174af5a5186707fe1658d,
-        type: 2}
-      propertyPath: m_Range
-      value: 5
-      objectReference: {fileID: 0}
-    - target: {fileID: 108392602560536828, guid: 9a548444382174af5a5186707fe1658d,
-        type: 2}
-      propertyPath: m_Shadows.m_Type
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 108392602560536828, guid: 9a548444382174af5a5186707fe1658d,
-        type: 2}
-      propertyPath: m_Color.g
-      value: 0.7241379
-      objectReference: {fileID: 0}
-    - target: {fileID: 108392602560536828, guid: 9a548444382174af5a5186707fe1658d,
-        type: 2}
-      propertyPath: m_Intensity
-      value: 1.5
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9a548444382174af5a5186707fe1658d, type: 2}
@@ -3533,60 +3026,9 @@ Prefab:
       propertyPath: m_RootOrder
       value: 6
       objectReference: {fileID: 0}
-    - target: {fileID: 108392602560536828, guid: 9a548444382174af5a5186707fe1658d,
-        type: 2}
-      propertyPath: m_Range
-      value: 7
-      objectReference: {fileID: 0}
-    - target: {fileID: 108392602560536828, guid: 9a548444382174af5a5186707fe1658d,
-        type: 2}
-      propertyPath: m_Shadows.m_Type
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 108392602560536828, guid: 9a548444382174af5a5186707fe1658d,
-        type: 2}
-      propertyPath: m_Color.g
-      value: 0.47586223
-      objectReference: {fileID: 0}
-    - target: {fileID: 4732768240000078, guid: 9a548444382174af5a5186707fe1658d, type: 2}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 270
-      objectReference: {fileID: 0}
     - target: {fileID: 1704243396572948, guid: 9a548444382174af5a5186707fe1658d, type: 2}
       propertyPath: m_Name
       value: torch002 (6)
-      objectReference: {fileID: 0}
-    - target: {fileID: 4732768240000078, guid: 9a548444382174af5a5186707fe1658d, type: 2}
-      propertyPath: m_LocalScale.y
-      value: 1.0000005
-      objectReference: {fileID: 0}
-    - target: {fileID: 4732768240000078, guid: 9a548444382174af5a5186707fe1658d, type: 2}
-      propertyPath: m_LocalScale.z
-      value: 1.0000002
-      objectReference: {fileID: 0}
-    - target: {fileID: 4732768240000078, guid: 9a548444382174af5a5186707fe1658d, type: 2}
-      propertyPath: m_LocalScale.x
-      value: 1.000001
-      objectReference: {fileID: 0}
-    - target: {fileID: 108392602560536828, guid: 9a548444382174af5a5186707fe1658d,
-        type: 2}
-      propertyPath: m_Intensity
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 108392602560536828, guid: 9a548444382174af5a5186707fe1658d,
-        type: 2}
-      propertyPath: m_Color.r
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 108392602560536828, guid: 9a548444382174af5a5186707fe1658d,
-        type: 2}
-      propertyPath: m_Color.b
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 108392602560536828, guid: 9a548444382174af5a5186707fe1658d,
-        type: 2}
-      propertyPath: m_Lightmapping
-      value: 2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9a548444382174af5a5186707fe1658d, type: 2}
@@ -3778,49 +3220,9 @@ Prefab:
       propertyPath: m_RootOrder
       value: 5
       objectReference: {fileID: 0}
-    - target: {fileID: 4732768240000078, guid: 9a548444382174af5a5186707fe1658d, type: 2}
-      propertyPath: m_LocalScale.x
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4732768240000078, guid: 9a548444382174af5a5186707fe1658d, type: 2}
-      propertyPath: m_LocalScale.y
-      value: 1.0000005
-      objectReference: {fileID: 0}
-    - target: {fileID: 4732768240000078, guid: 9a548444382174af5a5186707fe1658d, type: 2}
-      propertyPath: m_LocalScale.z
-      value: 1.0000005
-      objectReference: {fileID: 0}
     - target: {fileID: 1704243396572948, guid: 9a548444382174af5a5186707fe1658d, type: 2}
       propertyPath: m_Name
       value: torch001 (5)
-      objectReference: {fileID: 0}
-    - target: {fileID: 1704243396572948, guid: 9a548444382174af5a5186707fe1658d, type: 2}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4732768240000078, guid: 9a548444382174af5a5186707fe1658d, type: 2}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 108392602560536828, guid: 9a548444382174af5a5186707fe1658d,
-        type: 2}
-      propertyPath: m_Range
-      value: 5
-      objectReference: {fileID: 0}
-    - target: {fileID: 108392602560536828, guid: 9a548444382174af5a5186707fe1658d,
-        type: 2}
-      propertyPath: m_Shadows.m_Type
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 108392602560536828, guid: 9a548444382174af5a5186707fe1658d,
-        type: 2}
-      propertyPath: m_Color.g
-      value: 0.7241379
-      objectReference: {fileID: 0}
-    - target: {fileID: 108392602560536828, guid: 9a548444382174af5a5186707fe1658d,
-        type: 2}
-      propertyPath: m_Intensity
-      value: 1.5
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9a548444382174af5a5186707fe1658d, type: 2}
@@ -3843,7 +3245,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &841661145
 Transform:
@@ -3991,49 +3393,9 @@ Prefab:
       propertyPath: m_RootOrder
       value: 3
       objectReference: {fileID: 0}
-    - target: {fileID: 4732768240000078, guid: 9a548444382174af5a5186707fe1658d, type: 2}
-      propertyPath: m_LocalScale.x
-      value: 1.0000005
-      objectReference: {fileID: 0}
-    - target: {fileID: 4732768240000078, guid: 9a548444382174af5a5186707fe1658d, type: 2}
-      propertyPath: m_LocalScale.y
-      value: 1.0000005
-      objectReference: {fileID: 0}
-    - target: {fileID: 4732768240000078, guid: 9a548444382174af5a5186707fe1658d, type: 2}
-      propertyPath: m_LocalScale.z
-      value: 1.0000005
-      objectReference: {fileID: 0}
     - target: {fileID: 1704243396572948, guid: 9a548444382174af5a5186707fe1658d, type: 2}
       propertyPath: m_Name
       value: torch001 (3)
-      objectReference: {fileID: 0}
-    - target: {fileID: 1704243396572948, guid: 9a548444382174af5a5186707fe1658d, type: 2}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4732768240000078, guid: 9a548444382174af5a5186707fe1658d, type: 2}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 108392602560536828, guid: 9a548444382174af5a5186707fe1658d,
-        type: 2}
-      propertyPath: m_Range
-      value: 5
-      objectReference: {fileID: 0}
-    - target: {fileID: 108392602560536828, guid: 9a548444382174af5a5186707fe1658d,
-        type: 2}
-      propertyPath: m_Shadows.m_Type
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 108392602560536828, guid: 9a548444382174af5a5186707fe1658d,
-        type: 2}
-      propertyPath: m_Color.g
-      value: 0.7241379
-      objectReference: {fileID: 0}
-    - target: {fileID: 108392602560536828, guid: 9a548444382174af5a5186707fe1658d,
-        type: 2}
-      propertyPath: m_Intensity
-      value: 1.5
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9a548444382174af5a5186707fe1658d, type: 2}
@@ -4220,60 +3582,9 @@ Prefab:
       propertyPath: m_RootOrder
       value: 3
       objectReference: {fileID: 0}
-    - target: {fileID: 108392602560536828, guid: 9a548444382174af5a5186707fe1658d,
-        type: 2}
-      propertyPath: m_Range
-      value: 7
-      objectReference: {fileID: 0}
-    - target: {fileID: 108392602560536828, guid: 9a548444382174af5a5186707fe1658d,
-        type: 2}
-      propertyPath: m_Shadows.m_Type
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 108392602560536828, guid: 9a548444382174af5a5186707fe1658d,
-        type: 2}
-      propertyPath: m_Color.g
-      value: 0.47586223
-      objectReference: {fileID: 0}
-    - target: {fileID: 4732768240000078, guid: 9a548444382174af5a5186707fe1658d, type: 2}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: -270
-      objectReference: {fileID: 0}
     - target: {fileID: 1704243396572948, guid: 9a548444382174af5a5186707fe1658d, type: 2}
       propertyPath: m_Name
       value: torch002 (3)
-      objectReference: {fileID: 0}
-    - target: {fileID: 4732768240000078, guid: 9a548444382174af5a5186707fe1658d, type: 2}
-      propertyPath: m_LocalScale.y
-      value: 1.0000005
-      objectReference: {fileID: 0}
-    - target: {fileID: 4732768240000078, guid: 9a548444382174af5a5186707fe1658d, type: 2}
-      propertyPath: m_LocalScale.z
-      value: 1.0000005
-      objectReference: {fileID: 0}
-    - target: {fileID: 4732768240000078, guid: 9a548444382174af5a5186707fe1658d, type: 2}
-      propertyPath: m_LocalScale.x
-      value: 1.0000005
-      objectReference: {fileID: 0}
-    - target: {fileID: 108392602560536828, guid: 9a548444382174af5a5186707fe1658d,
-        type: 2}
-      propertyPath: m_Intensity
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 108392602560536828, guid: 9a548444382174af5a5186707fe1658d,
-        type: 2}
-      propertyPath: m_Color.r
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 108392602560536828, guid: 9a548444382174af5a5186707fe1658d,
-        type: 2}
-      propertyPath: m_Color.b
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 108392602560536828, guid: 9a548444382174af5a5186707fe1658d,
-        type: 2}
-      propertyPath: m_Lightmapping
-      value: 2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9a548444382174af5a5186707fe1658d, type: 2}
@@ -4322,45 +3633,9 @@ Prefab:
       propertyPath: m_RootOrder
       value: 13
       objectReference: {fileID: 0}
-    - target: {fileID: 4732768240000078, guid: 9a548444382174af5a5186707fe1658d, type: 2}
-      propertyPath: m_LocalScale.x
-      value: 1.0000005
-      objectReference: {fileID: 0}
-    - target: {fileID: 4732768240000078, guid: 9a548444382174af5a5186707fe1658d, type: 2}
-      propertyPath: m_LocalScale.y
-      value: 1.0000005
-      objectReference: {fileID: 0}
-    - target: {fileID: 4732768240000078, guid: 9a548444382174af5a5186707fe1658d, type: 2}
-      propertyPath: m_LocalScale.z
-      value: 1.0000005
-      objectReference: {fileID: 0}
     - target: {fileID: 1704243396572948, guid: 9a548444382174af5a5186707fe1658d, type: 2}
       propertyPath: m_Name
       value: torch001 (13)
-      objectReference: {fileID: 0}
-    - target: {fileID: 1704243396572948, guid: 9a548444382174af5a5186707fe1658d, type: 2}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 108392602560536828, guid: 9a548444382174af5a5186707fe1658d,
-        type: 2}
-      propertyPath: m_Range
-      value: 5
-      objectReference: {fileID: 0}
-    - target: {fileID: 108392602560536828, guid: 9a548444382174af5a5186707fe1658d,
-        type: 2}
-      propertyPath: m_Shadows.m_Type
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 108392602560536828, guid: 9a548444382174af5a5186707fe1658d,
-        type: 2}
-      propertyPath: m_Color.g
-      value: 0.7241379
-      objectReference: {fileID: 0}
-    - target: {fileID: 108392602560536828, guid: 9a548444382174af5a5186707fe1658d,
-        type: 2}
-      propertyPath: m_Intensity
-      value: 1.5
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9a548444382174af5a5186707fe1658d, type: 2}
@@ -4409,45 +3684,9 @@ Prefab:
       propertyPath: m_RootOrder
       value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: 4732768240000078, guid: 9a548444382174af5a5186707fe1658d, type: 2}
-      propertyPath: m_LocalScale.x
-      value: 1.0000005
-      objectReference: {fileID: 0}
-    - target: {fileID: 4732768240000078, guid: 9a548444382174af5a5186707fe1658d, type: 2}
-      propertyPath: m_LocalScale.y
-      value: 1.0000005
-      objectReference: {fileID: 0}
-    - target: {fileID: 4732768240000078, guid: 9a548444382174af5a5186707fe1658d, type: 2}
-      propertyPath: m_LocalScale.z
-      value: 1.0000005
-      objectReference: {fileID: 0}
     - target: {fileID: 1704243396572948, guid: 9a548444382174af5a5186707fe1658d, type: 2}
       propertyPath: m_Name
       value: torch001 (1)
-      objectReference: {fileID: 0}
-    - target: {fileID: 1704243396572948, guid: 9a548444382174af5a5186707fe1658d, type: 2}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 108392602560536828, guid: 9a548444382174af5a5186707fe1658d,
-        type: 2}
-      propertyPath: m_Range
-      value: 5
-      objectReference: {fileID: 0}
-    - target: {fileID: 108392602560536828, guid: 9a548444382174af5a5186707fe1658d,
-        type: 2}
-      propertyPath: m_Shadows.m_Type
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 108392602560536828, guid: 9a548444382174af5a5186707fe1658d,
-        type: 2}
-      propertyPath: m_Color.g
-      value: 0.7241379
-      objectReference: {fileID: 0}
-    - target: {fileID: 108392602560536828, guid: 9a548444382174af5a5186707fe1658d,
-        type: 2}
-      propertyPath: m_Intensity
-      value: 1.5
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9a548444382174af5a5186707fe1658d, type: 2}
@@ -4618,26 +3857,6 @@ Prefab:
     - target: {fileID: 4732768240000078, guid: 9a548444382174af5a5186707fe1658d, type: 2}
       propertyPath: m_RootOrder
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 108392602560536828, guid: 9a548444382174af5a5186707fe1658d,
-        type: 2}
-      propertyPath: m_Range
-      value: 5
-      objectReference: {fileID: 0}
-    - target: {fileID: 108392602560536828, guid: 9a548444382174af5a5186707fe1658d,
-        type: 2}
-      propertyPath: m_Shadows.m_Type
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 108392602560536828, guid: 9a548444382174af5a5186707fe1658d,
-        type: 2}
-      propertyPath: m_Color.g
-      value: 0.7241379
-      objectReference: {fileID: 0}
-    - target: {fileID: 108392602560536828, guid: 9a548444382174af5a5186707fe1658d,
-        type: 2}
-      propertyPath: m_Intensity
-      value: 1.5
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9a548444382174af5a5186707fe1658d, type: 2}
@@ -5066,56 +4285,9 @@ Prefab:
       propertyPath: m_RootOrder
       value: 2
       objectReference: {fileID: 0}
-    - target: {fileID: 108392602560536828, guid: 9a548444382174af5a5186707fe1658d,
-        type: 2}
-      propertyPath: m_Range
-      value: 7
-      objectReference: {fileID: 0}
-    - target: {fileID: 108392602560536828, guid: 9a548444382174af5a5186707fe1658d,
-        type: 2}
-      propertyPath: m_Shadows.m_Type
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 108392602560536828, guid: 9a548444382174af5a5186707fe1658d,
-        type: 2}
-      propertyPath: m_Color.g
-      value: 0.47586223
-      objectReference: {fileID: 0}
-    - target: {fileID: 4732768240000078, guid: 9a548444382174af5a5186707fe1658d, type: 2}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: -270
-      objectReference: {fileID: 0}
     - target: {fileID: 1704243396572948, guid: 9a548444382174af5a5186707fe1658d, type: 2}
       propertyPath: m_Name
       value: torch002 (2)
-      objectReference: {fileID: 0}
-    - target: {fileID: 4732768240000078, guid: 9a548444382174af5a5186707fe1658d, type: 2}
-      propertyPath: m_LocalScale.y
-      value: 1.0000005
-      objectReference: {fileID: 0}
-    - target: {fileID: 4732768240000078, guid: 9a548444382174af5a5186707fe1658d, type: 2}
-      propertyPath: m_LocalScale.z
-      value: 1.0000005
-      objectReference: {fileID: 0}
-    - target: {fileID: 108392602560536828, guid: 9a548444382174af5a5186707fe1658d,
-        type: 2}
-      propertyPath: m_Intensity
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 108392602560536828, guid: 9a548444382174af5a5186707fe1658d,
-        type: 2}
-      propertyPath: m_Color.r
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 108392602560536828, guid: 9a548444382174af5a5186707fe1658d,
-        type: 2}
-      propertyPath: m_Color.b
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 108392602560536828, guid: 9a548444382174af5a5186707fe1658d,
-        type: 2}
-      propertyPath: m_Lightmapping
-      value: 2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9a548444382174af5a5186707fe1658d, type: 2}
@@ -5445,49 +4617,9 @@ Prefab:
       propertyPath: m_RootOrder
       value: 10
       objectReference: {fileID: 0}
-    - target: {fileID: 4732768240000078, guid: 9a548444382174af5a5186707fe1658d, type: 2}
-      propertyPath: m_LocalScale.x
-      value: 1.0000005
-      objectReference: {fileID: 0}
-    - target: {fileID: 4732768240000078, guid: 9a548444382174af5a5186707fe1658d, type: 2}
-      propertyPath: m_LocalScale.y
-      value: 1.0000005
-      objectReference: {fileID: 0}
-    - target: {fileID: 4732768240000078, guid: 9a548444382174af5a5186707fe1658d, type: 2}
-      propertyPath: m_LocalScale.z
-      value: 1.0000005
-      objectReference: {fileID: 0}
     - target: {fileID: 1704243396572948, guid: 9a548444382174af5a5186707fe1658d, type: 2}
       propertyPath: m_Name
       value: torch001 (10)
-      objectReference: {fileID: 0}
-    - target: {fileID: 1704243396572948, guid: 9a548444382174af5a5186707fe1658d, type: 2}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4732768240000078, guid: 9a548444382174af5a5186707fe1658d, type: 2}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: -270
-      objectReference: {fileID: 0}
-    - target: {fileID: 108392602560536828, guid: 9a548444382174af5a5186707fe1658d,
-        type: 2}
-      propertyPath: m_Range
-      value: 5
-      objectReference: {fileID: 0}
-    - target: {fileID: 108392602560536828, guid: 9a548444382174af5a5186707fe1658d,
-        type: 2}
-      propertyPath: m_Shadows.m_Type
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 108392602560536828, guid: 9a548444382174af5a5186707fe1658d,
-        type: 2}
-      propertyPath: m_Color.g
-      value: 0.7241379
-      objectReference: {fileID: 0}
-    - target: {fileID: 108392602560536828, guid: 9a548444382174af5a5186707fe1658d,
-        type: 2}
-      propertyPath: m_Intensity
-      value: 1.5
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9a548444382174af5a5186707fe1658d, type: 2}
@@ -5626,49 +4758,9 @@ Prefab:
       propertyPath: m_RootOrder
       value: 8
       objectReference: {fileID: 0}
-    - target: {fileID: 4732768240000078, guid: 9a548444382174af5a5186707fe1658d, type: 2}
-      propertyPath: m_LocalScale.x
-      value: 1.0000005
-      objectReference: {fileID: 0}
-    - target: {fileID: 4732768240000078, guid: 9a548444382174af5a5186707fe1658d, type: 2}
-      propertyPath: m_LocalScale.y
-      value: 1.0000005
-      objectReference: {fileID: 0}
-    - target: {fileID: 4732768240000078, guid: 9a548444382174af5a5186707fe1658d, type: 2}
-      propertyPath: m_LocalScale.z
-      value: 1.0000005
-      objectReference: {fileID: 0}
     - target: {fileID: 1704243396572948, guid: 9a548444382174af5a5186707fe1658d, type: 2}
       propertyPath: m_Name
       value: torch001 (8)
-      objectReference: {fileID: 0}
-    - target: {fileID: 1704243396572948, guid: 9a548444382174af5a5186707fe1658d, type: 2}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4732768240000078, guid: 9a548444382174af5a5186707fe1658d, type: 2}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: -270
-      objectReference: {fileID: 0}
-    - target: {fileID: 108392602560536828, guid: 9a548444382174af5a5186707fe1658d,
-        type: 2}
-      propertyPath: m_Range
-      value: 5
-      objectReference: {fileID: 0}
-    - target: {fileID: 108392602560536828, guid: 9a548444382174af5a5186707fe1658d,
-        type: 2}
-      propertyPath: m_Shadows.m_Type
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 108392602560536828, guid: 9a548444382174af5a5186707fe1658d,
-        type: 2}
-      propertyPath: m_Color.g
-      value: 0.7241379
-      objectReference: {fileID: 0}
-    - target: {fileID: 108392602560536828, guid: 9a548444382174af5a5186707fe1658d,
-        type: 2}
-      propertyPath: m_Intensity
-      value: 1.5
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9a548444382174af5a5186707fe1658d, type: 2}
@@ -5717,60 +4809,9 @@ Prefab:
       propertyPath: m_RootOrder
       value: 5
       objectReference: {fileID: 0}
-    - target: {fileID: 108392602560536828, guid: 9a548444382174af5a5186707fe1658d,
-        type: 2}
-      propertyPath: m_Range
-      value: 7
-      objectReference: {fileID: 0}
-    - target: {fileID: 108392602560536828, guid: 9a548444382174af5a5186707fe1658d,
-        type: 2}
-      propertyPath: m_Shadows.m_Type
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 108392602560536828, guid: 9a548444382174af5a5186707fe1658d,
-        type: 2}
-      propertyPath: m_Color.g
-      value: 0.47586223
-      objectReference: {fileID: 0}
-    - target: {fileID: 4732768240000078, guid: 9a548444382174af5a5186707fe1658d, type: 2}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: -180
-      objectReference: {fileID: 0}
     - target: {fileID: 1704243396572948, guid: 9a548444382174af5a5186707fe1658d, type: 2}
       propertyPath: m_Name
       value: torch002 (5)
-      objectReference: {fileID: 0}
-    - target: {fileID: 4732768240000078, guid: 9a548444382174af5a5186707fe1658d, type: 2}
-      propertyPath: m_LocalScale.y
-      value: 1.0000005
-      objectReference: {fileID: 0}
-    - target: {fileID: 4732768240000078, guid: 9a548444382174af5a5186707fe1658d, type: 2}
-      propertyPath: m_LocalScale.z
-      value: 1.0000002
-      objectReference: {fileID: 0}
-    - target: {fileID: 4732768240000078, guid: 9a548444382174af5a5186707fe1658d, type: 2}
-      propertyPath: m_LocalScale.x
-      value: 1.000001
-      objectReference: {fileID: 0}
-    - target: {fileID: 108392602560536828, guid: 9a548444382174af5a5186707fe1658d,
-        type: 2}
-      propertyPath: m_Intensity
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 108392602560536828, guid: 9a548444382174af5a5186707fe1658d,
-        type: 2}
-      propertyPath: m_Color.r
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 108392602560536828, guid: 9a548444382174af5a5186707fe1658d,
-        type: 2}
-      propertyPath: m_Color.b
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 108392602560536828, guid: 9a548444382174af5a5186707fe1658d,
-        type: 2}
-      propertyPath: m_Lightmapping
-      value: 2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9a548444382174af5a5186707fe1658d, type: 2}
@@ -5947,49 +4988,9 @@ Prefab:
       propertyPath: m_RootOrder
       value: 7
       objectReference: {fileID: 0}
-    - target: {fileID: 4732768240000078, guid: 9a548444382174af5a5186707fe1658d, type: 2}
-      propertyPath: m_LocalScale.x
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4732768240000078, guid: 9a548444382174af5a5186707fe1658d, type: 2}
-      propertyPath: m_LocalScale.y
-      value: 1.0000005
-      objectReference: {fileID: 0}
-    - target: {fileID: 4732768240000078, guid: 9a548444382174af5a5186707fe1658d, type: 2}
-      propertyPath: m_LocalScale.z
-      value: 1.0000005
-      objectReference: {fileID: 0}
     - target: {fileID: 1704243396572948, guid: 9a548444382174af5a5186707fe1658d, type: 2}
       propertyPath: m_Name
       value: torch001 (7)
-      objectReference: {fileID: 0}
-    - target: {fileID: 1704243396572948, guid: 9a548444382174af5a5186707fe1658d, type: 2}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4732768240000078, guid: 9a548444382174af5a5186707fe1658d, type: 2}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: -270
-      objectReference: {fileID: 0}
-    - target: {fileID: 108392602560536828, guid: 9a548444382174af5a5186707fe1658d,
-        type: 2}
-      propertyPath: m_Range
-      value: 5
-      objectReference: {fileID: 0}
-    - target: {fileID: 108392602560536828, guid: 9a548444382174af5a5186707fe1658d,
-        type: 2}
-      propertyPath: m_Shadows.m_Type
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 108392602560536828, guid: 9a548444382174af5a5186707fe1658d,
-        type: 2}
-      propertyPath: m_Color.g
-      value: 0.7241379
-      objectReference: {fileID: 0}
-    - target: {fileID: 108392602560536828, guid: 9a548444382174af5a5186707fe1658d,
-        type: 2}
-      propertyPath: m_Intensity
-      value: 1.5
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9a548444382174af5a5186707fe1658d, type: 2}
@@ -6038,49 +5039,9 @@ Prefab:
       propertyPath: m_RootOrder
       value: 4
       objectReference: {fileID: 0}
-    - target: {fileID: 4732768240000078, guid: 9a548444382174af5a5186707fe1658d, type: 2}
-      propertyPath: m_LocalScale.x
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4732768240000078, guid: 9a548444382174af5a5186707fe1658d, type: 2}
-      propertyPath: m_LocalScale.y
-      value: 1.0000005
-      objectReference: {fileID: 0}
-    - target: {fileID: 4732768240000078, guid: 9a548444382174af5a5186707fe1658d, type: 2}
-      propertyPath: m_LocalScale.z
-      value: 1.0000005
-      objectReference: {fileID: 0}
     - target: {fileID: 1704243396572948, guid: 9a548444382174af5a5186707fe1658d, type: 2}
       propertyPath: m_Name
       value: torch001 (4)
-      objectReference: {fileID: 0}
-    - target: {fileID: 1704243396572948, guid: 9a548444382174af5a5186707fe1658d, type: 2}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4732768240000078, guid: 9a548444382174af5a5186707fe1658d, type: 2}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 108392602560536828, guid: 9a548444382174af5a5186707fe1658d,
-        type: 2}
-      propertyPath: m_Range
-      value: 5
-      objectReference: {fileID: 0}
-    - target: {fileID: 108392602560536828, guid: 9a548444382174af5a5186707fe1658d,
-        type: 2}
-      propertyPath: m_Shadows.m_Type
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 108392602560536828, guid: 9a548444382174af5a5186707fe1658d,
-        type: 2}
-      propertyPath: m_Color.g
-      value: 0.7241379
-      objectReference: {fileID: 0}
-    - target: {fileID: 108392602560536828, guid: 9a548444382174af5a5186707fe1658d,
-        type: 2}
-      propertyPath: m_Intensity
-      value: 1.5
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9a548444382174af5a5186707fe1658d, type: 2}
@@ -6191,49 +5152,9 @@ Prefab:
       propertyPath: m_RootOrder
       value: 12
       objectReference: {fileID: 0}
-    - target: {fileID: 4732768240000078, guid: 9a548444382174af5a5186707fe1658d, type: 2}
-      propertyPath: m_LocalScale.x
-      value: 1.000001
-      objectReference: {fileID: 0}
-    - target: {fileID: 4732768240000078, guid: 9a548444382174af5a5186707fe1658d, type: 2}
-      propertyPath: m_LocalScale.y
-      value: 1.0000005
-      objectReference: {fileID: 0}
-    - target: {fileID: 4732768240000078, guid: 9a548444382174af5a5186707fe1658d, type: 2}
-      propertyPath: m_LocalScale.z
-      value: 1.0000002
-      objectReference: {fileID: 0}
     - target: {fileID: 1704243396572948, guid: 9a548444382174af5a5186707fe1658d, type: 2}
       propertyPath: m_Name
       value: torch001 (12)
-      objectReference: {fileID: 0}
-    - target: {fileID: 1704243396572948, guid: 9a548444382174af5a5186707fe1658d, type: 2}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4732768240000078, guid: 9a548444382174af5a5186707fe1658d, type: 2}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 180
-      objectReference: {fileID: 0}
-    - target: {fileID: 108392602560536828, guid: 9a548444382174af5a5186707fe1658d,
-        type: 2}
-      propertyPath: m_Range
-      value: 5
-      objectReference: {fileID: 0}
-    - target: {fileID: 108392602560536828, guid: 9a548444382174af5a5186707fe1658d,
-        type: 2}
-      propertyPath: m_Shadows.m_Type
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 108392602560536828, guid: 9a548444382174af5a5186707fe1658d,
-        type: 2}
-      propertyPath: m_Color.g
-      value: 0.7241379
-      objectReference: {fileID: 0}
-    - target: {fileID: 108392602560536828, guid: 9a548444382174af5a5186707fe1658d,
-        type: 2}
-      propertyPath: m_Intensity
-      value: 1.5
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9a548444382174af5a5186707fe1658d, type: 2}
@@ -6359,54 +5280,9 @@ Prefab:
       propertyPath: m_RootOrder
       value: 3
       objectReference: {fileID: 0}
-    - target: {fileID: 4732768240000078, guid: 9a548444382174af5a5186707fe1658d, type: 2}
-      propertyPath: m_LocalScale.x
-      value: 1.0000005
-      objectReference: {fileID: 0}
-    - target: {fileID: 4732768240000078, guid: 9a548444382174af5a5186707fe1658d, type: 2}
-      propertyPath: m_LocalScale.y
-      value: 1.0000005
-      objectReference: {fileID: 0}
-    - target: {fileID: 4732768240000078, guid: 9a548444382174af5a5186707fe1658d, type: 2}
-      propertyPath: m_LocalScale.z
-      value: 1.0000005
-      objectReference: {fileID: 0}
     - target: {fileID: 1704243396572948, guid: 9a548444382174af5a5186707fe1658d, type: 2}
       propertyPath: m_Name
       value: torch001 (14)
-      objectReference: {fileID: 0}
-    - target: {fileID: 1704243396572948, guid: 9a548444382174af5a5186707fe1658d, type: 2}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4732768240000078, guid: 9a548444382174af5a5186707fe1658d, type: 2}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 270
-      objectReference: {fileID: 0}
-    - target: {fileID: 108392602560536828, guid: 9a548444382174af5a5186707fe1658d,
-        type: 2}
-      propertyPath: m_Range
-      value: 7
-      objectReference: {fileID: 0}
-    - target: {fileID: 108392602560536828, guid: 9a548444382174af5a5186707fe1658d,
-        type: 2}
-      propertyPath: m_Shadows.m_Type
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 108392602560536828, guid: 9a548444382174af5a5186707fe1658d,
-        type: 2}
-      propertyPath: m_Color.g
-      value: 0.47586223
-      objectReference: {fileID: 0}
-    - target: {fileID: 108392602560536828, guid: 9a548444382174af5a5186707fe1658d,
-        type: 2}
-      propertyPath: m_Intensity
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 108392602560536828, guid: 9a548444382174af5a5186707fe1658d,
-        type: 2}
-      propertyPath: m_Lightmapping
-      value: 2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9a548444382174af5a5186707fe1658d, type: 2}
@@ -6635,49 +5511,9 @@ Prefab:
       propertyPath: m_RootOrder
       value: 14
       objectReference: {fileID: 0}
-    - target: {fileID: 4732768240000078, guid: 9a548444382174af5a5186707fe1658d, type: 2}
-      propertyPath: m_LocalScale.x
-      value: 1.000001
-      objectReference: {fileID: 0}
-    - target: {fileID: 4732768240000078, guid: 9a548444382174af5a5186707fe1658d, type: 2}
-      propertyPath: m_LocalScale.y
-      value: 1.0000005
-      objectReference: {fileID: 0}
-    - target: {fileID: 4732768240000078, guid: 9a548444382174af5a5186707fe1658d, type: 2}
-      propertyPath: m_LocalScale.z
-      value: 1.0000002
-      objectReference: {fileID: 0}
     - target: {fileID: 1704243396572948, guid: 9a548444382174af5a5186707fe1658d, type: 2}
       propertyPath: m_Name
       value: torch001 (14)
-      objectReference: {fileID: 0}
-    - target: {fileID: 1704243396572948, guid: 9a548444382174af5a5186707fe1658d, type: 2}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4732768240000078, guid: 9a548444382174af5a5186707fe1658d, type: 2}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 180
-      objectReference: {fileID: 0}
-    - target: {fileID: 108392602560536828, guid: 9a548444382174af5a5186707fe1658d,
-        type: 2}
-      propertyPath: m_Range
-      value: 5
-      objectReference: {fileID: 0}
-    - target: {fileID: 108392602560536828, guid: 9a548444382174af5a5186707fe1658d,
-        type: 2}
-      propertyPath: m_Shadows.m_Type
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 108392602560536828, guid: 9a548444382174af5a5186707fe1658d,
-        type: 2}
-      propertyPath: m_Color.g
-      value: 0.7241379
-      objectReference: {fileID: 0}
-    - target: {fileID: 108392602560536828, guid: 9a548444382174af5a5186707fe1658d,
-        type: 2}
-      propertyPath: m_Intensity
-      value: 1.5
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9a548444382174af5a5186707fe1658d, type: 2}
