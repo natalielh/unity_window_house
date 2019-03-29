@@ -1450,6 +1450,11 @@ Prefab:
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
+    - target: {fileID: 23716559963631480, guid: f4c5eb3c1fcce47af9c5268fa5aaf70e,
+        type: 2}
+      propertyPath: m_StitchLightmapSeams
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f4c5eb3c1fcce47af9c5268fa5aaf70e, type: 2}
   m_IsPrefabAsset: 0
@@ -6913,6 +6918,11 @@ Prefab:
       propertyPath: m_LocalScale.z
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 23245856618281148, guid: 1dbe08f46a3ac4e2d88feb2ccbc7bbd7,
+        type: 2}
+      propertyPath: m_StitchLightmapSeams
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1dbe08f46a3ac4e2d88feb2ccbc7bbd7, type: 2}
   m_IsPrefabAsset: 0
@@ -8227,6 +8237,11 @@ Prefab:
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
+    - target: {fileID: 23716559963631480, guid: f4c5eb3c1fcce47af9c5268fa5aaf70e,
+        type: 2}
+      propertyPath: m_StitchLightmapSeams
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f4c5eb3c1fcce47af9c5268fa5aaf70e, type: 2}
   m_IsPrefabAsset: 0
@@ -8663,6 +8678,11 @@ Prefab:
     - target: {fileID: 1008472966945266, guid: f4c5eb3c1fcce47af9c5268fa5aaf70e, type: 2}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 23716559963631480, guid: f4c5eb3c1fcce47af9c5268fa5aaf70e,
+        type: 2}
+      propertyPath: m_StitchLightmapSeams
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f4c5eb3c1fcce47af9c5268fa5aaf70e, type: 2}
@@ -9415,6 +9435,10 @@ Prefab:
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
+    - target: {fileID: 2300000, guid: bb67ea4634ff74fd5bc812e7c6f30b72, type: 3}
+      propertyPath: m_StitchLightmapSeams
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 9500000, guid: bb67ea4634ff74fd5bc812e7c6f30b72, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: bb67ea4634ff74fd5bc812e7c6f30b72, type: 3}
@@ -9577,6 +9601,11 @@ Prefab:
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
+    - target: {fileID: 23716559963631480, guid: f4c5eb3c1fcce47af9c5268fa5aaf70e,
+        type: 2}
+      propertyPath: m_StitchLightmapSeams
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f4c5eb3c1fcce47af9c5268fa5aaf70e, type: 2}
   m_IsPrefabAsset: 0
@@ -9699,6 +9728,11 @@ Prefab:
     - target: {fileID: 1371495017323726, guid: 1dbe08f46a3ac4e2d88feb2ccbc7bbd7, type: 2}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 23245856618281148, guid: 1dbe08f46a3ac4e2d88feb2ccbc7bbd7,
+        type: 2}
+      propertyPath: m_StitchLightmapSeams
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1dbe08f46a3ac4e2d88feb2ccbc7bbd7, type: 2}
@@ -9953,6 +9987,11 @@ Prefab:
     - target: {fileID: 1008472966945266, guid: f4c5eb3c1fcce47af9c5268fa5aaf70e, type: 2}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 23716559963631480, guid: f4c5eb3c1fcce47af9c5268fa5aaf70e,
+        type: 2}
+      propertyPath: m_StitchLightmapSeams
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f4c5eb3c1fcce47af9c5268fa5aaf70e, type: 2}
@@ -10555,6 +10594,11 @@ Prefab:
     - target: {fileID: 1371495017323726, guid: 1dbe08f46a3ac4e2d88feb2ccbc7bbd7, type: 2}
       propertyPath: m_Name
       value: table2 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 23245856618281148, guid: 1dbe08f46a3ac4e2d88feb2ccbc7bbd7,
+        type: 2}
+      propertyPath: m_StitchLightmapSeams
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1dbe08f46a3ac4e2d88feb2ccbc7bbd7, type: 2}
@@ -11171,6 +11215,11 @@ Prefab:
     - target: {fileID: 4796101999825626, guid: f4c5eb3c1fcce47af9c5268fa5aaf70e, type: 2}
       propertyPath: m_LocalEulerAnglesHint.z
       value: -62.9
+      objectReference: {fileID: 0}
+    - target: {fileID: 23716559963631480, guid: f4c5eb3c1fcce47af9c5268fa5aaf70e,
+        type: 2}
+      propertyPath: m_StitchLightmapSeams
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f4c5eb3c1fcce47af9c5268fa5aaf70e, type: 2}
