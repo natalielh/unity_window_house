@@ -4,7 +4,7 @@
 Material:
   serializedVersion: 6
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_Name: constellations_p5
   m_Shader: {fileID: 4800000, guid: 767cc270d2ce94d91a05bbb3d61cab3d, type: 3}

@@ -1,10 +1,16 @@
 ﻿<Properties StartupConfiguration="{91870A46-1C6A-65E6-F953-CAD1D3DB4DF1}|">
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
-  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Shaders/Dissolve.shader">
+    <Files>
+      <File FileName="Assets/Scripts/WaterController.cs" Line="8" Column="60" />
+      <File FileName="Assets/Shaders/Water.shader" Line="2" Column="71" />
+      <File FileName="Assets/Shaders/Dissolve.shader" Line="1" Column="32" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
 </Properties>

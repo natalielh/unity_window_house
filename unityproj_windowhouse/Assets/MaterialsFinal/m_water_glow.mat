@@ -4,9 +4,9 @@
 Material:
   serializedVersion: 6
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: water_glow
+  m_Name: m_water_glow
   m_Shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
   m_ShaderKeywords: _ALPHAPREMULTIPLY_ON _EMISSION
   m_LightmapFlags: 2
@@ -73,5 +73,5 @@ Material:
     - _UVSec: 0
     - _ZWrite: 0
     m_Colors:
-    - _Color: {r: 0.46323526, g: 0.6890466, b: 1, a: 0.11764706}
-    - _EmissionColor: {r: 0.46274513, g: 0.6901961, b: 1, a: 1}
+    - _Color: {r: 0.46323526, g: 0.6890466, b: 1, a: 0.15686275}
+    - _EmissionColor: {r: 0.6544204, g: 0.97608465, b: 1.4142135, a: 1}
