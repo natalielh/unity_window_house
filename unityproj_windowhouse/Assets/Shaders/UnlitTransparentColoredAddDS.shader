@@ -1,4 +1,4 @@
-Shader "Unlit/Transparent Colored Add" {
+Shader "Unlit/Transparent Colored Add Double Sided" {
     Properties {
 		[HDR]_Color ("Main Color", Color) = (1,1,1,1)
         _MainTex ("Base (RGB) Trans (A)", 2D) = "white" {}
@@ -7,6 +7,7 @@ Shader "Unlit/Transparent Colored Add" {
     SubShader {
         Tags {"Queue"="Transparent" "IgnoreProjector"="True" "RenderType"="Transparent"}
         
+		Cull Off
         ZWrite Off
         Lighting Off
         Fog { Mode Off }
