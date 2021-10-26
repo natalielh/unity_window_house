@@ -3,6 +3,68 @@ guid: cd9ce16ff8cae4bd797c2aa7c6b895f9
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
+    100000: fountainbot
+    100002: //RootNode
+    100004: fountainmid
+    100006: fountainmid_001
+    100008: fountainpillarbota
+    100010: fountainpillarbotb
+    100012: fountainpillarmid
+    100014: fountainpillartop
+    100016: fountaintop
+    100018: waterbot
+    100020: watermid
+    100022: watertop
+    400000: fountainbot
+    400002: //RootNode
+    400004: fountainmid
+    400006: fountainmid_001
+    400008: fountainpillarbota
+    400010: fountainpillarbotb
+    400012: fountainpillarmid
+    400014: fountainpillartop
+    400016: fountaintop
+    400018: waterbot
+    400020: watermid
+    400022: watertop
+    2100000: unnamed
+    2100002: pSphere1SG_001
+    2100004: pSphere1SG
+    2300000: fountainbot
+    2300002: fountainmid
+    2300004: fountainmid_001
+    2300006: fountainpillarbota
+    2300008: fountainpillarbotb
+    2300010: fountainpillarmid
+    2300012: fountainpillartop
+    2300014: fountaintop
+    2300016: waterbot
+    2300018: watermid
+    2300020: watertop
+    3300000: fountainbot
+    3300002: fountainmid
+    3300004: fountainmid_001
+    3300006: fountainpillarbota
+    3300008: fountainpillarbotb
+    3300010: fountainpillarmid
+    3300012: fountainpillartop
+    3300014: fountaintop
+    3300016: waterbot
+    3300018: watermid
+    3300020: watertop
+    4300000: fountainmid_001
+    4300002: fountainmid
+    4300004: watertop
+    4300006: waterbot
+    4300008: fountainpillarbota
+    4300010: fountainpillarmid
+    4300012: fountainpillarbotb
+    4300014: fountainpillartop
+    4300016: fountainbot
+    4300018: watermid
+    4300020: fountaintop
+    7400000: Default Take
+    9500000: //RootNode
     2186277476908879412: ImportLogs
   externalObjects: {}
   materials:
@@ -56,7 +118,7 @@ ModelImporter:
     secondaryUVPackMargin: 4
     useFileScale: 1
     previousCalculatedGlobalScale: 1
-    hasPreviousCalculatedGlobalScale: 0
+    hasPreviousCalculatedGlobalScale: 1
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0

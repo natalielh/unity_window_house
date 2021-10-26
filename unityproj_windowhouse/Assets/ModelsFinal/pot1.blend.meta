@@ -4,10 +4,30 @@ ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
     100000: //RootNode
+    100002: pot1
+    100004: pot1_tex_a
+    100006: pot1_tex_b
+    100008: pot1_tex_c
     400000: //RootNode
+    400002: pot1
+    400004: pot1_tex_a
+    400006: pot1_tex_b
+    400008: pot1_tex_c
     2300000: //RootNode
+    2300002: pot1
+    2300004: pot1_tex_a
+    2300006: pot1_tex_b
+    2300008: pot1_tex_c
     3300000: //RootNode
+    3300002: pot1
+    3300004: pot1_tex_a
+    3300006: pot1_tex_b
+    3300008: pot1_tex_c
     4300000: object_1
+    4300002: pot1
+    4300004: pot1_tex_a
+    4300006: pot1_tex_b
+    4300008: pot1_tex_c
     7400000: Default Take
     9500000: //RootNode
     2186277476908879412: ImportLogs
@@ -63,7 +83,7 @@ ModelImporter:
     secondaryUVPackMargin: 4
     useFileScale: 1
     previousCalculatedGlobalScale: 1
-    hasPreviousCalculatedGlobalScale: 0
+    hasPreviousCalculatedGlobalScale: 1
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0

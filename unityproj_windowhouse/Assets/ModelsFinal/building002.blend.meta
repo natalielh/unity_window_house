@@ -3,6 +3,137 @@ guid: 851fbe2531ace45239f0d54d8539a208
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
+    100000: //RootNode
+    100002: pillar_000
+    100004: pillar_001
+    100006: pillar_002
+    100008: pillar_003
+    100010: pillar_004
+    100012: pillar_005
+    100014: pillar_006
+    100016: pillar_007
+    100018: pillar_008
+    100020: pillar_009
+    100022: pillar_010
+    100024: pillar_011
+    100026: window_000
+    100028: window_001
+    100030: window_002
+    100032: window_003
+    100034: window_004
+    100036: window_005
+    100038: window_006
+    100040: window_007
+    100042: window_008
+    100044: window_009
+    100046: window_010
+    100048: window_011
+    400000: //RootNode
+    400002: pillar_000
+    400004: pillar_001
+    400006: pillar_002
+    400008: pillar_003
+    400010: pillar_004
+    400012: pillar_005
+    400014: pillar_006
+    400016: pillar_007
+    400018: pillar_008
+    400020: pillar_009
+    400022: pillar_010
+    400024: pillar_011
+    400026: window_000
+    400028: window_001
+    400030: window_002
+    400032: window_003
+    400034: window_004
+    400036: window_005
+    400038: window_006
+    400040: window_007
+    400042: window_008
+    400044: window_009
+    400046: window_010
+    400048: window_011
+    2100000: Material
+    2100002: m_RoofQuads
+    2100004: unnamed
+    2100006: SVGMat_000
+    2300000: //RootNode
+    2300002: pillar_000
+    2300004: pillar_001
+    2300006: pillar_002
+    2300008: pillar_003
+    2300010: pillar_004
+    2300012: pillar_005
+    2300014: pillar_006
+    2300016: pillar_007
+    2300018: pillar_008
+    2300020: pillar_009
+    2300022: pillar_010
+    2300024: pillar_011
+    2300026: window_000
+    2300028: window_001
+    2300030: window_002
+    2300032: window_003
+    2300034: window_004
+    2300036: window_005
+    2300038: window_006
+    2300040: window_007
+    2300042: window_008
+    2300044: window_009
+    2300046: window_010
+    2300048: window_011
+    3300000: //RootNode
+    3300002: pillar_000
+    3300004: pillar_001
+    3300006: pillar_002
+    3300008: pillar_003
+    3300010: pillar_004
+    3300012: pillar_005
+    3300014: pillar_006
+    3300016: pillar_007
+    3300018: pillar_008
+    3300020: pillar_009
+    3300022: pillar_010
+    3300024: pillar_011
+    3300026: window_000
+    3300028: window_001
+    3300030: window_002
+    3300032: window_003
+    3300034: window_004
+    3300036: window_005
+    3300038: window_006
+    3300040: window_007
+    3300042: window_008
+    3300044: window_009
+    3300046: window_010
+    3300048: window_011
+    4300000: building_base
+    4300002: window_011
+    4300004: window_010
+    4300006: window_009
+    4300008: window_008
+    4300010: window_007
+    4300012: window_006
+    4300014: window_005
+    4300016: window_004
+    4300018: window_003
+    4300020: window_002
+    4300022: window_001
+    4300024: pillar_011
+    4300026: pillar_010
+    4300028: pillar_009
+    4300030: pillar_008
+    4300032: pillar_007
+    4300034: pillar_006
+    4300036: pillar_005
+    4300038: pillar_004
+    4300040: pillar_003
+    4300042: pillar_000
+    4300044: pillar_002
+    4300046: pillar_001
+    4300048: window_000
+    7400000: Default Take
+    9500000: //RootNode
     2186277476908879412: ImportLogs
   externalObjects: {}
   materials:
@@ -56,7 +187,7 @@ ModelImporter:
     secondaryUVPackMargin: 4
     useFileScale: 1
     previousCalculatedGlobalScale: 1
-    hasPreviousCalculatedGlobalScale: 0
+    hasPreviousCalculatedGlobalScale: 1
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
