@@ -4,7 +4,7 @@
 Material:
   serializedVersion: 6
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_Name: fish_p5
   m_Shader: {fileID: 4800000, guid: 5c2909aa72c6c41cdbb60f5c6c511e44, type: 3}
@@ -25,4 +25,4 @@ Material:
     m_Floats:
     - _Cutoff: 0.5
     m_Colors:
-    - _Color: {r: 1, g: 0.7655173, b: 0, a: 1}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}

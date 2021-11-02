@@ -4,7 +4,7 @@
 Material:
   serializedVersion: 6
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_Name: trees2_pt
   m_Shader: {fileID: 4800000, guid: 5c2909aa72c6c41cdbb60f5c6c511e44, type: 3}
@@ -80,7 +80,7 @@ Material:
     - _UseUIAlphaClip: 0
     - _ZWrite: 0
     m_Colors:
-    - _Color: {r: 0.41911763, g: 0.3707838, b: 0.27735725, a: 1}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmisColor: {r: 1, g: 1, b: 1, a: 0}
     - _EmissionColor: {r: 0.33823532, g: 1, b: 0.9452332, a: 1}
     - _TintColor: {r: 1, g: 1, b: 1, a: 0.5}

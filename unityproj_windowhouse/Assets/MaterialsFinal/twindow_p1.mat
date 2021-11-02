@@ -4,7 +4,7 @@
 Material:
   serializedVersion: 6
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_Name: twindow_p1
   m_Shader: {fileID: 4800000, guid: 767cc270d2ce94d91a05bbb3d61cab3d, type: 3}
@@ -40,8 +40,8 @@ Material:
         m_Offset: {x: 0, y: 0}
     - _MainTex:
         m_Texture: {fileID: 2800000, guid: 10a9a942f6d3a440aa06394b5a560ff7, type: 3}
-        m_Scale: {x: 1, y: 4.68}
-        m_Offset: {x: 0, y: 0.04}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
@@ -80,7 +80,7 @@ Material:
     - _UseUIAlphaClip: 0
     - _ZWrite: 0
     m_Colors:
-    - _Color: {r: 1, g: 0.9463489, b: 0.8308824, a: 1}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmisColor: {r: 1, g: 1, b: 1, a: 0}
     - _EmissionColor: {r: 0.33823532, g: 1, b: 0.9452332, a: 1}
     - _TintColor: {r: 1, g: 1, b: 1, a: 0.5}
