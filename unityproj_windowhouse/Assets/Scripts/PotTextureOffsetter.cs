@@ -24,7 +24,7 @@ public class PotTextureOffsetter : MonoBehaviour {
 
 	// inspector-settable array to set the speeds for the scrolling textures (allows for achieving a parallax effect manually)
 	// **default: stay within the 0.00f-0.05f range**
-	[Range(-0.5f,0.5f)]
+	[Range(-0.05f,0.05f)]
 	public float[] scroll_speeds;
 
 	// stored reference to the player for reading transform data
