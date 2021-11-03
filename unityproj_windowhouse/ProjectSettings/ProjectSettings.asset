@@ -164,7 +164,7 @@ PlayerSettings:
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
     Android: com.Company.ProductName
-    Standalone: unity.Natalie, Cici, and Erika.Dream Objects
+    Standalone: unity.NatalieZiyiandErika.WindowHouse
     Tizen: com.Company.ProductName
     iPhone: com.Company.ProductName
     tvOS: com.Company.ProductName
@@ -283,7 +283,7 @@ PlayerSettings:
   - m_BuildTarget: 
     m_Icons:
     - serializedVersion: 2
-      m_Icon: {fileID: 2800000, guid: aa70f117838ee4c4c883a7c377a9fca2, type: 3}
+      m_Icon: {fileID: 2800000, guid: 123ed3b90547e6d448cf48e6192dc60d, type: 3}
       m_Width: 128
       m_Height: 128
       m_Kind: 0

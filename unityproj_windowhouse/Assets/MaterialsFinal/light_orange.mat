@@ -5,7 +5,8 @@ Material:
   serializedVersion: 6
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_Name: light_orange
   m_Shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
   m_ShaderKeywords: _EMISSION _GLOSSYREFLECTIONS_OFF _SPECULARHIGHLIGHTS_OFF
@@ -73,4 +74,4 @@ Material:
     - _ZWrite: 1
     m_Colors:
     - _Color: {r: 0.98823535, g: 0.8588236, b: 0.37647063, a: 1}
-    - _EmissionColor: {r: 1.4980392, g: 0.8392157, b: 0, a: 1}
+    - _EmissionColor: {r: 1.0592737, g: 0.5934151, b: 0, a: 1}

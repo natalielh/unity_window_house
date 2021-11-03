@@ -1,74 +1,200 @@
 fileFormatVersion: 2
 guid: cd9ce16ff8cae4bd797c2aa7c6b895f9
 ModelImporter:
-  serializedVersion: 23
-  fileIDToRecycleName:
-    100000: fountainbot
-    100002: //RootNode
-    100004: fountainmid
-    100006: fountainmid_001
-    100008: fountainpillarbota
-    100010: fountainpillarbotb
-    100012: fountainpillarmid
-    100014: fountainpillartop
-    100016: fountaintop
-    100018: waterbot
-    100020: watermid
-    100022: watertop
-    400000: fountainbot
-    400002: //RootNode
-    400004: fountainmid
-    400006: fountainmid_001
-    400008: fountainpillarbota
-    400010: fountainpillarbotb
-    400012: fountainpillarmid
-    400014: fountainpillartop
-    400016: fountaintop
-    400018: waterbot
-    400020: watermid
-    400022: watertop
-    2100000: unnamed
-    2100002: pSphere1SG_001
-    2100004: pSphere1SG
-    2300000: fountainbot
-    2300002: fountainmid
-    2300004: fountainmid_001
-    2300006: fountainpillarbota
-    2300008: fountainpillarbotb
-    2300010: fountainpillarmid
-    2300012: fountainpillartop
-    2300014: fountaintop
-    2300016: waterbot
-    2300018: watermid
-    2300020: watertop
-    3300000: fountainbot
-    3300002: fountainmid
-    3300004: fountainmid_001
-    3300006: fountainpillarbota
-    3300008: fountainpillarbotb
-    3300010: fountainpillarmid
-    3300012: fountainpillartop
-    3300014: fountaintop
-    3300016: waterbot
-    3300018: watermid
-    3300020: watertop
-    4300000: fountainmid_001
-    4300002: fountainmid
-    4300004: watertop
-    4300006: waterbot
-    4300008: fountainpillarbota
-    4300010: fountainpillarmid
-    4300012: fountainpillarbotb
-    4300014: fountainpillartop
-    4300016: fountainbot
-    4300018: watermid
-    4300020: fountaintop
-    7400000: Default Take
-    9500000: //RootNode
-    2186277476908879412: ImportLogs
+  serializedVersion: 19300
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: fountainbot
+  - first:
+      1: 100002
+    second: //RootNode
+  - first:
+      1: 100004
+    second: fountainmid
+  - first:
+      1: 100006
+    second: fountainmid_001
+  - first:
+      1: 100008
+    second: fountainpillarbota
+  - first:
+      1: 100010
+    second: fountainpillarbotb
+  - first:
+      1: 100012
+    second: fountainpillarmid
+  - first:
+      1: 100014
+    second: fountainpillartop
+  - first:
+      1: 100016
+    second: fountaintop
+  - first:
+      1: 100018
+    second: waterbot
+  - first:
+      1: 100020
+    second: watermid
+  - first:
+      1: 100022
+    second: watertop
+  - first:
+      4: 400000
+    second: fountainbot
+  - first:
+      4: 400002
+    second: //RootNode
+  - first:
+      4: 400004
+    second: fountainmid
+  - first:
+      4: 400006
+    second: fountainmid_001
+  - first:
+      4: 400008
+    second: fountainpillarbota
+  - first:
+      4: 400010
+    second: fountainpillarbotb
+  - first:
+      4: 400012
+    second: fountainpillarmid
+  - first:
+      4: 400014
+    second: fountainpillartop
+  - first:
+      4: 400016
+    second: fountaintop
+  - first:
+      4: 400018
+    second: waterbot
+  - first:
+      4: 400020
+    second: watermid
+  - first:
+      4: 400022
+    second: watertop
+  - first:
+      21: 2100000
+    second: unnamed
+  - first:
+      21: 2100002
+    second: pSphere1SG_001
+  - first:
+      21: 2100004
+    second: pSphere1SG
+  - first:
+      23: 2300000
+    second: fountainbot
+  - first:
+      23: 2300002
+    second: fountainmid
+  - first:
+      23: 2300004
+    second: fountainmid_001
+  - first:
+      23: 2300006
+    second: fountainpillarbota
+  - first:
+      23: 2300008
+    second: fountainpillarbotb
+  - first:
+      23: 2300010
+    second: fountainpillarmid
+  - first:
+      23: 2300012
+    second: fountainpillartop
+  - first:
+      23: 2300014
+    second: fountaintop
+  - first:
+      23: 2300016
+    second: waterbot
+  - first:
+      23: 2300018
+    second: watermid
+  - first:
+      23: 2300020
+    second: watertop
+  - first:
+      33: 3300000
+    second: fountainbot
+  - first:
+      33: 3300002
+    second: fountainmid
+  - first:
+      33: 3300004
+    second: fountainmid_001
+  - first:
+      33: 3300006
+    second: fountainpillarbota
+  - first:
+      33: 3300008
+    second: fountainpillarbotb
+  - first:
+      33: 3300010
+    second: fountainpillarmid
+  - first:
+      33: 3300012
+    second: fountainpillartop
+  - first:
+      33: 3300014
+    second: fountaintop
+  - first:
+      33: 3300016
+    second: waterbot
+  - first:
+      33: 3300018
+    second: watermid
+  - first:
+      33: 3300020
+    second: watertop
+  - first:
+      43: 4300000
+    second: fountainmid_001
+  - first:
+      43: 4300002
+    second: fountainmid
+  - first:
+      43: 4300004
+    second: watertop
+  - first:
+      43: 4300006
+    second: waterbot
+  - first:
+      43: 4300008
+    second: fountainpillarbota
+  - first:
+      43: 4300010
+    second: fountainpillarmid
+  - first:
+      43: 4300012
+    second: fountainpillarbotb
+  - first:
+      43: 4300014
+    second: fountainpillartop
+  - first:
+      43: 4300016
+    second: fountainbot
+  - first:
+      43: 4300018
+    second: watermid
+  - first:
+      43: 4300020
+    second: fountaintop
+  - first:
+      74: 7400000
+    second: Default Take
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      41386430: 2186277476908879412
+    second: ImportLogs
   externalObjects: {}
   materials:
-    importMaterials: 1
+    materialImportMode: 1
     materialName: 0
     materialSearch: 1
     materialLocation: 1
@@ -100,34 +226,40 @@ ModelImporter:
     globalScale: 1
     meshCompression: 0
     addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
     importVisibility: 1
     importBlendShapes: 1
     importCameras: 1
     importLights: 1
     swapUVChannels: 0
-    generateSecondaryUV: 0
+    generateSecondaryUV: 1
     useFileUnits: 1
-    optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
     preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
     indexFormat: 0
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
     useFileScale: 1
-    previousCalculatedGlobalScale: 1
-    hasPreviousCalculatedGlobalScale: 1
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
     tangentImportMode: 3
     normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
   importAnimation: 1
-  copyAvatar: 0
   humanDescription:
-    serializedVersion: 2
+    serializedVersion: 3
     human: []
     skeleton: []
     armTwist: 0.5
@@ -137,14 +269,16 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
+    globalScale: 1
     rootMotionBoneName: 
-    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
     hasTranslationDoF: 0
     hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
   animationType: 2
   humanoidOversampling: 1
+  avatarSetup: 1
   additionalBone: 0
   userData: 
   assetBundleName: 
