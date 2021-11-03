@@ -8,8 +8,8 @@ public class PotTextureOffsetter : MonoBehaviour {
 	private Vector2[] scroll_origoffsets;
 
 	// inspector-settable scroll speed that acts as a manual multiplier
-	[Range(-3.0f,3.0f)]
-	public float local_scroll_speed;
+	//[Range(-3.0f,3.0f)]
+	//public float local_scroll_speed;
 
 	// scroll speed multiplier set through player interaction
 	private float multiplier;
@@ -24,7 +24,7 @@ public class PotTextureOffsetter : MonoBehaviour {
 
 	// inspector-settable array to set the speeds for the scrolling textures (allows for achieving a parallax effect manually)
 	// **default: stay within the 0.00f-0.05f range**
-	[Range(-0.05f,0.05f)]
+	[Range(-0.1f,0.1f)]
 	public float[] scroll_speeds;
 
 	// stored reference to the player for reading transform data
@@ -106,8 +106,9 @@ public class PotTextureOffsetter : MonoBehaviour {
 			
 			
 		for(int i=0; i<num_mats; i++){
-			float offset = (mats[i].GetTextureOffset("_MainTex").x) + (Time.deltaTime * multiplier * local_scroll_speed * scroll_speeds[i]);
-			mats[i].SetTextureOffset("_MainTex", new Vector2(offset, scroll_origoffsets[i].y));
+			//float offset = (mats[i].GetTextureOffset("_MainTex").x) + (Time.deltaTime * multiplier * local_scroll_speed * scroll_speeds[i]);
+            float offset = (mats[i].GetTextureOffset("_MainTex").x) + (Time.deltaTime * multiplier * scroll_speeds[i]);
+            mats[i].SetTextureOffset("_MainTex", new Vector2(offset, scroll_origoffsets[i].y));
 		}
 
 	}
