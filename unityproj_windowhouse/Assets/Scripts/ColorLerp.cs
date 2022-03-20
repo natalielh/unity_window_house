@@ -12,6 +12,7 @@ public class ColorLerp : MonoBehaviour
     public Color color2 = new Color(3.0f, 1.85f, 0.0f);
 
     public float duration = 30.0f;
+    public float durationOffset = 0.0f;
 
     Renderer rend;
 
@@ -35,7 +36,8 @@ public class ColorLerp : MonoBehaviour
     {
 
         // ping-pong between the colors over the duration
-        float lerp = Mathf.PingPong(Time.time, duration) / duration;
+        //float lerp = Mathf.PingPong(Time.time, duration) / duration;
+        float lerp = Mathf.PingPong(Time.time + durationOffset, duration) / duration;
 
         if (!changeEmissionInstead)
         {

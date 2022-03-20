@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: m_water_simple
+  m_Name: m_floor_transp
   m_Shader: {fileID: 4800000, guid: 2dacecd94aca346f39f4481342781675, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
@@ -45,14 +45,14 @@ Material:
         m_Offset: {x: 0, y: 0}
     - _MainTex:
         m_Texture: {fileID: 2800000, guid: 44b6c695dfc122349a291402a99f41e8, type: 3}
-        m_Scale: {x: 1.99, y: 1}
+        m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _NoiseTex:
-        m_Texture: {fileID: 2800000, guid: b404d1418e4a044f4abc9a6c483cd325, type: 3}
+        m_Texture: {fileID: 2800000, guid: 6466b8f517ff643508bc9e3ad22689e6, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _OcclusionMap:
@@ -63,29 +63,53 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _SpecGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     m_Floats:
+    - PixelSnap: 0
+    - _Amount: 0.6
     - _BumpScale: 1
-    - _Cutoff: 0.5
-    - _DepthFactor: 5.63
+    - _Cutoff: 0.065
+    - _DepthFactor: 1
     - _DetailNormalMapScale: 1
     - _DistortStrength: 1
     - _DstBlend: 0
-    - _ExtraHeight: -5.61
+    - _Edges: 0.454
+    - _Emission: 1
+    - _EmissiveIntensity: 1
+    - _ExtraHeight: 0
+    - _Foam: 8
     - _GlossMapScale: 1
     - _Glossiness: 0.5
     - _GlossyReflections: 1
+    - _Height: 0.1
+    - _Level: 0.346
     - _Metallic: 0
     - _Mode: 0
+    - _NormalIntensity: 1
     - _OcclusionStrength: 1
     - _Parallax: 0.02
+    - _Scale: 0.5
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
+    - _SpecularIntensity: 0.2
+    - _Speed: 0.5
     - _SrcBlend: 1
+    - _Stroke: 0.1
+    - _TextureDistort: 0.1
     - _UVSec: 0
-    - _WaveAmp: 2
-    - _WaveSpeed: 20
+    - _WaveAmp: 0.2
+    - _WaveSpeed: 1
     - _ZWrite: 1
     m_Colors:
-    - _Color: {r: 0.8349056, g: 0.87195206, b: 1, a: 1}
+    - _Color: {r: 0.035183717, g: 0, b: 0.93333334, a: 1}
+    - _DiffuseColor: {r: 0.5019608, g: 0.5019608, b: 0.5019608, a: 1}
     - _EdgeColor: {r: 1, g: 1, b: 1, a: 1}
+    - _EdgeColour1: {r: 1, g: 1, b: 1, a: 1}
+    - _EdgeColour2: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _FoamC: {r: 1, g: 1, b: 1, a: 0.5}
+    - _SpecColor: {r: 1, g: 1, b: 1, a: 1}
+    - _StrokeColor: {r: 1, g: 1, b: 1, a: 1}
