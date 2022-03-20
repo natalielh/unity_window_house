@@ -5,8 +5,9 @@ Material:
   serializedVersion: 6
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_Name: m_geo_a_p1
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: m_pot_geo_b_p2
   m_Shader: {fileID: 4800000, guid: 5c2909aa72c6c41cdbb60f5c6c511e44, type: 3}
   m_ShaderKeywords: _ALPHABLEND_ON _EMISSION
   m_LightmapFlags: 2
@@ -43,8 +44,8 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: d89d4e951d9134bf88808de5fd8d28bf, type: 3}
-        m_Scale: {x: 10, y: 1}
+        m_Texture: {fileID: 2800000, guid: 80dade0c178154f3d9e965f2b3d2ad90, type: 3}
+        m_Scale: {x: 8.08, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
         m_Texture: {fileID: 0}
@@ -94,7 +95,7 @@ Material:
     - _ZTest: 0
     - _ZWrite: 0
     m_Colors:
-    - _Color: {r: 1, g: 0.94904846, b: 0.8505623, a: 1}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EdgeColor: {r: 1, g: 1, b: 1, a: 1}
     - _EmisColor: {r: 1, g: 1, b: 1, a: 0}
     - _EmissionColor: {r: 0.33823532, g: 1, b: 0.9452332, a: 1}
