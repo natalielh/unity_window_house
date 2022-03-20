@@ -966,6 +966,7 @@ MonoBehaviour:
   color1: {r: 0, g: 1.35, b: 3, a: 1}
   color2: {r: 3, g: 1.85, b: 0, a: 1}
   duration: 30
+  durationOffset: 0
   changeEmissionInstead: 0
 --- !u!1001 &125905669
 PrefabInstance:
@@ -1129,6 +1130,7 @@ MonoBehaviour:
   color1: {r: 0, g: 1.35, b: 3, a: 1}
   color2: {r: 3, g: 1.85, b: 0, a: 1}
   duration: 30
+  durationOffset: 0
   changeEmissionInstead: 0
 --- !u!1001 &131732907
 PrefabInstance:
@@ -1381,6 +1383,7 @@ MonoBehaviour:
   color1: {r: 0, g: 1.35, b: 3, a: 1}
   color2: {r: 3, g: 1.85, b: 0, a: 1}
   duration: 30
+  durationOffset: 0
   changeEmissionInstead: 0
 --- !u!1001 &175163763
 PrefabInstance:
@@ -1570,6 +1573,7 @@ MonoBehaviour:
   color1: {r: 0, g: 1.35, b: 3, a: 1}
   color2: {r: 3, g: 1.85, b: 0, a: 1}
   duration: 30
+  durationOffset: 0
   changeEmissionInstead: 0
 --- !u!1 &182992224
 GameObject:
@@ -1720,6 +1724,7 @@ MonoBehaviour:
   color1: {r: 0, g: 1.35, b: 3, a: 1}
   color2: {r: 3, g: 1.85, b: 0, a: 1}
   duration: 30
+  durationOffset: 0
   changeEmissionInstead: 0
 --- !u!1001 &218602351
 PrefabInstance:
@@ -2565,6 +2570,7 @@ MonoBehaviour:
   color1: {r: 0, g: 1.35, b: 3, a: 1}
   color2: {r: 3, g: 1.85, b: 0, a: 1}
   duration: 30
+  durationOffset: 0
   changeEmissionInstead: 0
 --- !u!1 &340838950 stripped
 GameObject:
@@ -3722,6 +3728,7 @@ MonoBehaviour:
   color1: {r: 0, g: 1.35, b: 3, a: 1}
   color2: {r: 3, g: 1.85, b: 0, a: 1}
   duration: 30
+  durationOffset: 0
   changeEmissionInstead: 0
 --- !u!1001 &448189662
 PrefabInstance:
@@ -3969,6 +3976,7 @@ MonoBehaviour:
   color1: {r: 0, g: 1.35, b: 3, a: 1}
   color2: {r: 3, g: 1.85, b: 0, a: 1}
   duration: 30
+  durationOffset: 0
   changeEmissionInstead: 0
 --- !u!1001 &493947325
 PrefabInstance:
@@ -4829,6 +4837,7 @@ MonoBehaviour:
   color1: {r: 0, g: 1.35, b: 3, a: 1}
   color2: {r: 3, g: 1.85, b: 0, a: 1}
   duration: 30
+  durationOffset: 0
   changeEmissionInstead: 0
 --- !u!1001 &558677782
 PrefabInstance:
@@ -5000,6 +5009,7 @@ MonoBehaviour:
   color1: {r: 0, g: 1.35, b: 3, a: 1}
   color2: {r: 3, g: 1.85, b: 0, a: 1}
   duration: 30
+  durationOffset: 0
   changeEmissionInstead: 0
 --- !u!1001 &581698861
 PrefabInstance:
@@ -5133,6 +5143,7 @@ MonoBehaviour:
   color1: {r: 0, g: 1.35, b: 3, a: 1}
   color2: {r: 3, g: 1.85, b: 0, a: 1}
   duration: 30
+  durationOffset: 0
   changeEmissionInstead: 0
 --- !u!114 &581698867
 MonoBehaviour:
@@ -5177,6 +5188,7 @@ MonoBehaviour:
   color1: {r: 0, g: 1.35, b: 3, a: 1}
   color2: {r: 3, g: 1.85, b: 0, a: 1}
   duration: 30
+  durationOffset: 0
   changeEmissionInstead: 0
 --- !u!114 &581698879
 MonoBehaviour:
@@ -5193,6 +5205,7 @@ MonoBehaviour:
   color1: {r: 0, g: 1.35, b: 3, a: 1}
   color2: {r: 3, g: 1.85, b: 0, a: 1}
   duration: 30
+  durationOffset: 0
   changeEmissionInstead: 0
 --- !u!1 &593824589
 GameObject:
@@ -5304,6 +5317,7 @@ MonoBehaviour:
   color1: {r: 0, g: 1.35, b: 3, a: 1}
   color2: {r: 3, g: 1.85, b: 0, a: 1}
   duration: 30
+  durationOffset: 0
   changeEmissionInstead: 0
 --- !u!1 &596992206
 GameObject:
@@ -7229,6 +7243,7 @@ MonoBehaviour:
   color1: {r: 0, g: 1.35, b: 3, a: 1}
   color2: {r: 3, g: 1.85, b: 0, a: 1}
   duration: 30
+  durationOffset: 0
   changeEmissionInstead: 0
 --- !u!23 &998801116
 MeshRenderer:
@@ -7881,6 +7896,7 @@ MonoBehaviour:
   color1: {r: 0, g: 1.35, b: 3, a: 1}
   color2: {r: 3, g: 1.85, b: 0, a: 1}
   duration: 30
+  durationOffset: 0
   changeEmissionInstead: 0
 --- !u!114 &1083046691
 MonoBehaviour:
@@ -7925,6 +7941,7 @@ MonoBehaviour:
   color1: {r: 0, g: 1.35, b: 3, a: 1}
   color2: {r: 3, g: 1.85, b: 0, a: 1}
   duration: 30
+  durationOffset: 0
   changeEmissionInstead: 0
 --- !u!114 &1083046703
 MonoBehaviour:
@@ -7941,6 +7958,7 @@ MonoBehaviour:
   color1: {r: 0, g: 1.35, b: 3, a: 1}
   color2: {r: 3, g: 1.85, b: 0, a: 1}
   duration: 30
+  durationOffset: 0
   changeEmissionInstead: 0
 --- !u!4 &1083527883 stripped
 Transform:
@@ -8935,6 +8953,7 @@ MonoBehaviour:
   color1: {r: 0, g: 1.35, b: 3, a: 1}
   color2: {r: 3, g: 1.85, b: 0, a: 1}
   duration: 30
+  durationOffset: 0
   changeEmissionInstead: 0
 --- !u!1001 &1194750798
 PrefabInstance:
@@ -9042,6 +9061,7 @@ MonoBehaviour:
   color1: {r: 0, g: 1.35, b: 3, a: 1}
   color2: {r: 3, g: 1.85, b: 0, a: 1}
   duration: 30
+  durationOffset: 0
   changeEmissionInstead: 0
 --- !u!1 &1195374604
 GameObject:
@@ -9327,6 +9347,7 @@ MonoBehaviour:
   color1: {r: 0, g: 1.35, b: 3, a: 1}
   color2: {r: 3, g: 1.85, b: 0, a: 1}
   duration: 30
+  durationOffset: 0
   changeEmissionInstead: 1
 --- !u!1001 &1257214783
 PrefabInstance:
@@ -9581,6 +9602,7 @@ MonoBehaviour:
   color1: {r: 0, g: 1.35, b: 3, a: 1}
   color2: {r: 3, g: 1.85, b: 0, a: 1}
   duration: 30
+  durationOffset: 0
   changeEmissionInstead: 0
 --- !u!114 &1261978059
 MonoBehaviour:
@@ -9681,6 +9703,7 @@ MonoBehaviour:
   color1: {r: 0, g: 1.35, b: 3, a: 1}
   color2: {r: 3, g: 1.85, b: 0, a: 1}
   duration: 30
+  durationOffset: 0
   changeEmissionInstead: 0
 --- !u!23 &1266543654
 MeshRenderer:
@@ -9766,6 +9789,7 @@ MonoBehaviour:
   color1: {r: 0, g: 1.35, b: 3, a: 1}
   color2: {r: 3, g: 1.85, b: 0, a: 1}
   duration: 30
+  durationOffset: 0
   changeEmissionInstead: 0
 --- !u!1001 &1285289182
 PrefabInstance:
@@ -9873,6 +9897,7 @@ MonoBehaviour:
   color1: {r: 0, g: 1.35, b: 3, a: 1}
   color2: {r: 3, g: 1.85, b: 0, a: 1}
   duration: 30
+  durationOffset: 0
   changeEmissionInstead: 0
 --- !u!1 &1287433329
 GameObject:
@@ -10021,6 +10046,7 @@ MonoBehaviour:
   color1: {r: 0, g: 1.35, b: 3, a: 1}
   color2: {r: 3, g: 1.85, b: 0, a: 1}
   duration: 30
+  durationOffset: 0
   changeEmissionInstead: 0
 --- !u!1 &1300628592
 GameObject:
@@ -10190,6 +10216,7 @@ MonoBehaviour:
   color1: {r: 0, g: 1.35, b: 3, a: 1}
   color2: {r: 3, g: 1.85, b: 0, a: 1}
   duration: 30
+  durationOffset: 0
   changeEmissionInstead: 0
 --- !u!1 &1309418829
 GameObject:
@@ -15976,6 +16003,7 @@ MonoBehaviour:
   color1: {r: 0, g: 1.35, b: 3, a: 1}
   color2: {r: 3, g: 1.85, b: 0, a: 1}
   duration: 30
+  durationOffset: 0
   changeEmissionInstead: 0
 --- !u!4 &1470372101 stripped
 Transform:
@@ -16181,6 +16209,7 @@ MonoBehaviour:
   color1: {r: 0, g: 1.35, b: 3, a: 1}
   color2: {r: 3, g: 1.85, b: 0, a: 1}
   duration: 30
+  durationOffset: 0
   changeEmissionInstead: 0
 --- !u!1 &1487106060 stripped
 GameObject:
@@ -16668,6 +16697,7 @@ MonoBehaviour:
   color1: {r: 0, g: 1.35, b: 3, a: 1}
   color2: {r: 3, g: 1.85, b: 0, a: 1}
   duration: 30
+  durationOffset: 0
   changeEmissionInstead: 0
 --- !u!114 &1534671374
 MonoBehaviour:
@@ -17208,6 +17238,7 @@ MonoBehaviour:
   color1: {r: 0, g: 1.35, b: 3, a: 1}
   color2: {r: 3, g: 1.85, b: 0, a: 1}
   duration: 30
+  durationOffset: 0
   changeEmissionInstead: 0
 --- !u!4 &1585409381 stripped
 Transform:
@@ -17628,6 +17659,7 @@ MonoBehaviour:
   color1: {r: 0, g: 1.35, b: 3, a: 1}
   color2: {r: 3, g: 1.85, b: 0, a: 1}
   duration: 30
+  durationOffset: 0
   changeEmissionInstead: 0
 --- !u!1001 &1610272974
 PrefabInstance:
@@ -17808,6 +17840,7 @@ MonoBehaviour:
   color1: {r: 0, g: 1.35, b: 3, a: 1}
   color2: {r: 3, g: 1.85, b: 0, a: 1}
   duration: 30
+  durationOffset: 0
   changeEmissionInstead: 0
 --- !u!1001 &1616127889
 PrefabInstance:
@@ -18688,6 +18721,7 @@ MonoBehaviour:
   color1: {r: 0, g: 1.35, b: 3, a: 1}
   color2: {r: 3, g: 1.85, b: 0, a: 1}
   duration: 30
+  durationOffset: 0
   changeEmissionInstead: 0
 --- !u!114 &1695153147
 MonoBehaviour:
@@ -19001,6 +19035,7 @@ MonoBehaviour:
   color1: {r: 0, g: 1.35, b: 3, a: 1}
   color2: {r: 3, g: 1.85, b: 0, a: 1}
   duration: 30
+  durationOffset: 0
   changeEmissionInstead: 0
 --- !u!1 &1735259827
 GameObject:
@@ -19199,7 +19234,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: f07f26d9f21d83949a3802c1d22c27c9, type: 3}
+  m_audioClip: {fileID: 8300000, guid: 54e884f46cf7e724e9a28c11463a33ef, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 0.4
   m_Pitch: 1
@@ -19543,6 +19578,7 @@ MonoBehaviour:
   color1: {r: 0, g: 1.35, b: 3, a: 1}
   color2: {r: 3, g: 1.85, b: 0, a: 1}
   duration: 30
+  durationOffset: 0
   changeEmissionInstead: 0
 --- !u!1 &1783213463
 GameObject:
@@ -20673,6 +20709,7 @@ MonoBehaviour:
   color1: {r: 0, g: 1.35, b: 3, a: 1}
   color2: {r: 3, g: 1.85, b: 0, a: 1}
   duration: 30
+  durationOffset: 0
   changeEmissionInstead: 0
 --- !u!1 &1904818314 stripped
 GameObject:
@@ -20825,6 +20862,7 @@ MonoBehaviour:
   color1: {r: 0, g: 1.35, b: 3, a: 1}
   color2: {r: 3, g: 1.85, b: 0, a: 1}
   duration: 30
+  durationOffset: 0
   changeEmissionInstead: 0
 --- !u!1001 &1925894364
 PrefabInstance:
@@ -21585,6 +21623,7 @@ MonoBehaviour:
   color1: {r: 0, g: 1.35, b: 3, a: 1}
   color2: {r: 3, g: 1.85, b: 0, a: 1}
   duration: 30
+  durationOffset: 0
   changeEmissionInstead: 0
 --- !u!1001 &1993626516
 PrefabInstance:
@@ -22111,6 +22150,7 @@ MonoBehaviour:
   color1: {r: 0, g: 1.35, b: 3, a: 1}
   color2: {r: 3, g: 1.85, b: 0, a: 1}
   duration: 30
+  durationOffset: 0
   changeEmissionInstead: 0
 --- !u!1 &2025220464
 GameObject:
@@ -22384,6 +22424,7 @@ MonoBehaviour:
   color1: {r: 0, g: 1.35, b: 3, a: 1}
   color2: {r: 3, g: 1.85, b: 0, a: 1}
   duration: 30
+  durationOffset: 0
   changeEmissionInstead: 0
 --- !u!1001 &2055684642
 PrefabInstance:
@@ -22661,6 +22702,7 @@ MonoBehaviour:
   color1: {r: 0, g: 1.35, b: 3, a: 1}
   color2: {r: 3, g: 1.85, b: 0, a: 1}
   duration: 30
+  durationOffset: 0
   changeEmissionInstead: 0
 --- !u!1001 &2097412057
 PrefabInstance:
@@ -23125,6 +23167,7 @@ MonoBehaviour:
   color1: {r: 0, g: 1.35, b: 3, a: 1}
   color2: {r: 3, g: 1.85, b: 0, a: 1}
   duration: 30
+  durationOffset: 0
   changeEmissionInstead: 0
 --- !u!1 &2132613539 stripped
 GameObject:
@@ -23411,6 +23454,7 @@ MonoBehaviour:
   color1: {r: 0, g: 1.35, b: 3, a: 1}
   color2: {r: 3, g: 1.85, b: 0, a: 1}
   duration: 30
+  durationOffset: 0
   changeEmissionInstead: 0
 --- !u!4 &2144258250 stripped
 Transform:
