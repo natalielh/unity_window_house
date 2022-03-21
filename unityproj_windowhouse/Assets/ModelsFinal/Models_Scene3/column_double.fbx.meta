@@ -9,9 +9,14 @@ ModelImporter:
   - first:
       74: -6373104379075534307
     second: column_double|Curve.013Action.001
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 1092ee9061b684e4996161040bfd78aa, type: 2}
   materials:
-    materialImportMode: 0
+    materialImportMode: 1
     materialName: 0
     materialSearch: 1
     materialLocation: 1
